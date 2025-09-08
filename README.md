@@ -7,22 +7,22 @@
 <table>
   <tr>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/KingJae6721">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/128048610?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="김영재" />
         <br />
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/7saval">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/103737156?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="김영지" />
         <br />
       </a>
     </td>
@@ -32,47 +32,47 @@
           src="https://avatars.githubusercontent.com/u/43948313?v=4"
           width="100px"
           height="100px"
-          alt="baek hayeon" />
+          alt="백하연" />
         <br />
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/in7570">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/68153661?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="임서인" />
         <br />
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/jsyoon27">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/220376998?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="정성윤" />
         <br />
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/P2P-J">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/112332034?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="조보근" />
         <br />
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/UyunChoi">
         <img
-          src=""
+          src="https://avatars.githubusercontent.com/u/169183609?v=4"
           width="100px"
-          height=""
-          alt="" />
+          height="100px"
+          alt="최우윤" />
         <br />
       </a>
     </td>
