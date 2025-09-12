@@ -1,3 +1,0 @@
-<div>
-    gitTest
-</div>
