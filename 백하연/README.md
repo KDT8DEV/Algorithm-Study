@@ -7,3 +7,6 @@
 |  250909  |    LV0     |        [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)         |    90%     |
 |  250910  |    LV0     |        [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)         |    90%     |
 |  250911  |    LV0     | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) |    90%     |
+|  250913  |    LV0     |    [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)    |    89%     |
+|  250913  |    LV0     |         [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)          |    90%     |
+|  250913  |    LV0     |  [(공통문제) 팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)  |    85%     |
