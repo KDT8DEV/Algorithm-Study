@@ -3,6 +3,6 @@
 
 function solution(arr) {
  
-   let answer = arr.join(''); //여기서 join이라는 것이 배열의 모든 원소를 하나의 문자열로 합쳐주는 함수라고 하네. 알아두면 좋겟어 이건
+   let answer = arr.join(''); //여기서 join이라는 것이 배열의 모든 원소를 하나의 문자열로 합쳐주는 함수라고 하네. 알아두면 좋겟어 이건!
    return answer;
 }
