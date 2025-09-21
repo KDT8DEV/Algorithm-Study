@@ -18,5 +18,6 @@
 |  250915  |    LV0     |     [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)     |    89%     |
 |  250916  |    LV0     | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804) |    92%     |
 |  250916  |    LV0     |     [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)     |    90%     |
-|  250917  |    LV0     |     [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)     |    90%     |
-|  250918  |    LV0     |     [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)     |    90%     |
+|  250917  |    LV0     |    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    |    90%     |
+|  250918  |    LV0     | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) |    90%     |
+|          |    LV1     | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |    59%     |
