@@ -1,7 +1,9 @@
 ## PR 체크리스트
 
+- 자세한 내용은 [README.md](https://github.com/KDT8DEV/Algorithm-Study/blob/main/README.md) 파일에서 확인하기
+
 **✅ 아래 규칙 한번더 확인해 주세요~!**
-- 자세한 내용은 README.md 파일 확인
+
 - [ ] 소스코드 파일 규칙 : **문제이름.js**
 - [ ] commit 메시지 규칙 : **날짜 | 문제 이름 | 문제수**
 - [ ] PR 규칙 : **[N주차] 본인 이름 | 총 문제수**
