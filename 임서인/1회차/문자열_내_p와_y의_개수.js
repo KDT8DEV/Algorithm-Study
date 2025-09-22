@@ -76,3 +76,14 @@ solution = (s) => {
 // index 로 굳이 할 필요없이
 // 어찌됐든 cur은 문자하나니까 cur.charCodAt(0)이 cur인거임
 // 저거는 진짜 필요없지만? 함 써보고싶었던거!
+
+//solution = (s, p = 0, y = 0) => { // p 와 y 초기화
+// for (let i = 0; i < s.length; i++) {
+// if (s.charCodeAt(i) === 80 || s.charCodeAt(i) === 112) { // 아스키코드 80 112는 p와 P
+// p += 1; // p라는 변수에 1을 더한다
+// } else if (s.charCodeAt(i) === 89 || s.charCodeAt(i) === 121) { // 아스키코드 89 121 은 y와 Y
+// y += 1; // y라는 함수에 1을 더한다
+// }
+// }
+// return p === y ? true : false; // p랑 y랑 수가 똑같니?? true 반환해 아니니? false 반환해
+// };

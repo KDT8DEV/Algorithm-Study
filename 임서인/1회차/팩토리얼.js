@@ -17,7 +17,23 @@ solution = (n, nfac = 1) => {
   }
 };
 
-//
+// 해설
+solution = (n, nfac = 1) => {
+  //nfac= 다음 팩토리얼의 값
+  for (let i = 1; i < 11; i++) {
+    if (nfac > n) {
+      // 다음 팩토리얼 값이 n보다 크면
+      return i - 1; // 그 전 숫자가 최대값
+    } else if (nfac == n) {
+      // 같으면 똑떨어지니까
+      return i; // 현재 숫자가 최대값
+    } else {
+      // 아무것도아니면
+      nfac = nfac * (i + 1); // 다음 팩토리얼로 넘어갑시다
+    }
+  }
+};
+
 solution = (n, nfac = 1) => {
   for (let i = 1; i <= 11; i++) {
     if (nfac <= n) {
