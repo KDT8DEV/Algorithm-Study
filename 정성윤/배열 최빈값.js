@@ -25,6 +25,10 @@ function solution(numbers) {
 console.log(solution([1, 2, 2, 3, 3])); // -1
 console.log(solution([1, 2, 2, 3]));    // 2
 
+// numbers 배열이 전부 정수(0 이상)일 때는 []로 바꿔도 잘 동작합니다.
+
+// 하지만 음수나 문자열 key 가 들어가면 배열 인덱스로는 표현 불가 → 반드시 {} 객체를 써야 합니다.
+
   // ...**전개 연산자(Spread Operator)**입니다.
 // Math.max(...Object.values(counts))에서
 // Object.values(counts)는 [1, 2, 2]처럼 배열을 만듭니다.
