@@ -32,3 +32,4 @@
 |  250923  |    LV1     |        [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)         |    88%     |
 |  250924  |    LV1     |        [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)         |    67%     |
 |  250925  |    LV0     |        [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)         |    75%     |
+|  250926  |    LV1     |        [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)         |    85%     |
