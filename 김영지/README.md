@@ -22,3 +22,14 @@
 |  250917  |    LV0     | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) |    61%     |
 |  250918  |    LV1     |    [(공통문제) 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)    |    59%     |
 |  250919  |    LV0     |         [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)          |    90%     |
+
+
+### 3주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  250922  |    LV0     |        [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)         |    70%     |
+|  250923  |    LV1     |        [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)         |    88%     |
+|  250924  |    LV1     |        [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)         |    67%     |
+|  250925  |    LV0     |        [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)         |    75%     |
+|  250926  |    LV1     |        [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)         |    85%     |
