@@ -24,10 +24,10 @@
 
 ### 3주차
 
-| **날짜** | **난이도** |                                    **문제 이름**                                     | **정답률** |
-| :------: | :--------: | :----------------------------------------------------------------------------------: | :--------: |
-|  250923  |    LV1     | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  |    79%     |
-|  250925  |    LV0     | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) |    89%     |
-|          |     LV     |                                         []()                                         |     %      |
-|          |     LV     |                                         []()                                         |     %      |
-|          |     LV     |                                         []()                                         |     %      |
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  250923  |    LV1     |    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)    |    79%     |
+|  250925  |    LV0     |   [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)    |    89%     |
+|  250928  |    LV0     | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) |    90%     |
+|  250928  |    LV0     |  [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)  |    86%     |
+|  250928  |    LV1     |         [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)          |    67%     |
