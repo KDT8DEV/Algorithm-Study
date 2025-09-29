@@ -33,3 +33,10 @@
 |  250924  |    LV1     |        [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)         |    67%     |
 |  250925  |    LV0     |        [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)         |    75%     |
 |  250926  |    LV1     |        [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)         |    85%     |
+
+
+### 4주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  250929  |    LV0     |        [세균증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)         |    90%     |
