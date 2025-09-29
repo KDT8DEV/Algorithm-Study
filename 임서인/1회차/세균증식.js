@@ -6,3 +6,5 @@
 solution = (n, t) => {
   return n * Math.pow(2, t);
 };
+
+// Math.pow는 제곱한 수를 구하는 함수입니다 2의 t제곱을 구해주네요

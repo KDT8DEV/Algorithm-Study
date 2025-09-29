@@ -6,3 +6,8 @@
 solution = (n) => {
   return (n + '').split('').reduce((a, c) => a + Number(c), 0);
 };
+
+// (n + '') js를 문자열 형식으로 만들기 (split은 문자열을 쪼개주는 함수)
+// split 배열을 ""기준으로 쪼개기
+// reduce는 누적값을 return 하는 함수로 숫자 a는 누적값 c 는 현재값
+// ,0은 acc를 0으로 초기화한다는 뜻입니다.

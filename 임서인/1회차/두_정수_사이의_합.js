@@ -27,3 +27,17 @@ function adder(a, b, s = 0) {
   // 굳이 자리바꾸지 않고도 Math.min, Math.max로 깔끔하게 처리함
   return s;
 }
+
+// //solution = (a, b) => {
+// let sum = 0;
+// if (b < a) {
+// // b가 a보다 작으면 자리바꿔라~
+// let tmp = a;
+// a = b;
+// b = tmp;
+// } // 무조건 큰 값을 뒤에 두고
+// for (let i = a; i <= b; i++) {
+// sum += i; // 작은 값에서부터 큰 값까지 다 더하렴~
+// }
+// return sum;
+// };
