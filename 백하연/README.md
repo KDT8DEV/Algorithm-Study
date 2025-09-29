@@ -20,4 +20,14 @@
 |  250916  |    LV0     |     [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)     |    90%     |
 |  250917  |    LV0     |    [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    |    90%     |
 |  250918  |    LV0     | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) |    90%     |
-|          |    LV1     | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |    59%     |
+|  250921  |    LV1     | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |    59%     |
+
+### 3주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  250923  |    LV1     |    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)    |    79%     |
+|  250925  |    LV0     |   [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)    |    89%     |
+|  250928  |    LV0     | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) |    90%     |
+|  250928  |    LV0     |  [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)  |    86%     |
+|  250928  |    LV1     |         [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)          |    67%     |
