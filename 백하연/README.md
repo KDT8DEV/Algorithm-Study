@@ -31,3 +31,13 @@
 |  250928  |    LV0     | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) |    90%     |
 |  250928  |    LV0     |  [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)  |    86%     |
 |  250928  |    LV1     |         [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)          |    67%     |
+
+### 4주차
+
+| **날짜** | **난이도** |                                 **문제 이름**                                 | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------: | :--------: |
+|  251001  |    LV0     | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) |    90%     |
+|  251001  |    LV0     | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) |    90%     |
+|          |     LV     |                                     []()                                      |     %      |
+|          |     LV     |                                     []()                                      |     %      |
+|          |     LV     |                                     []()                                      |     %      |
