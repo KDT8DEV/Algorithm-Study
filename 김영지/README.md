@@ -41,3 +41,6 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  250929  |    LV0     |        [세균증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)         |    90%     |
 |  250930  |    LV1     |        [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)         |    79%     |
+|  251001  |    LV1     |        [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)         |    88%     |
+|  251001  |    LV1     |        [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)         |    85%     |
+|  251001  |    LV0     |        [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)         |    54%     |
