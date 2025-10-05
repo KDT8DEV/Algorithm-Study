@@ -34,10 +34,10 @@
 
 ### 4주차
 
-| **날짜** | **난이도** |                                 **문제 이름**                                 | **정답률** |
-| :------: | :--------: | :---------------------------------------------------------------------------: | :--------: |
-|  251001  |    LV0     | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) |    90%     |
-|  251001  |    LV0     | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) |    90%     |
-|          |     LV     |                                     []()                                      |     %      |
-|          |     LV     |                                     []()                                      |     %      |
-|          |     LV     |                                     []()                                      |     %      |
+| **날짜** | **난이도** |                                      **문제 이름**                                      | **정답률** |
+| :------: | :--------: | :-------------------------------------------------------------------------------------: | :--------: |
+|  251001  |    LV0     |      [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)      |    90%     |
+|  251001  |    LV0     |   [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)    |    90%     |
+|  251005  |    LV0     | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) |    90%     |
+|  251005  |    LV0     |      [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)      |    89%     |
+|  251005  |    LV1     |   [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   |    79%     |
