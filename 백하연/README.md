@@ -41,3 +41,13 @@
 |  251005  |    LV0     | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) |    90%     |
 |  251005  |    LV0     |      [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)      |    89%     |
 |  251005  |    LV1     |   [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   |    79%     |
+
+### 5주차
+
+| **날짜** | **난이도** |                                     **문제 이름**                                     | **정답률** |
+| :------: | :--------: | :-----------------------------------------------------------------------------------: | :--------: |
+|  251012  |    LV0     |   [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)   |    89%     |
+|  251012  |    LV0     |   [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)   |    82%     |
+|  251012  |    LV0     |      [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)      |    88%     |
+|  251012  |    LV1     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) |    86%     |
+|  251012  |    LV2     |    [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)     |    79%     |
