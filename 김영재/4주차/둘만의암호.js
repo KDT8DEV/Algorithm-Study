@@ -17,4 +17,5 @@ function solution(s, skip, index) {
 
     return answer;
 }
+
 console.log(solution("aukks","wbqd",5,"happy"))
