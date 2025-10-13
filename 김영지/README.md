@@ -55,3 +55,10 @@
 |  251010  |    LV1     |        [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)         |    71%     |
 |  251012  |    LV2     |        [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |    79%     |
 |  251012  |    LV2     |        [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)     |    80%     |
+
+
+### 6주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251013  |    LV1     |        [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)         |    88%     |
