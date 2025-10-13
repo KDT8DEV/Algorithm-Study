@@ -51,3 +51,10 @@
 |  251012  |    LV0     |      [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)      |    88%     |
 |  251012  |    LV1     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) |    86%     |
 |  251012  |    LV2     |    [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)     |    79%     |
+
+### 6주차
+
+| **날짜** | **난이도** |                                    **문제 이름**                                    | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------: | :--------: |
+|  251013  |    LV1     | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) |    87%     |
+|          |     LV     |                                        []()                                         |     %      |
