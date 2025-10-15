@@ -63,3 +63,4 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251013  |    LV1     |        [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)         |    88%     |
 |  251014  |    LV1     |        [외톨이알파벳](https://school.programmers.co.kr/tryouts/190154/challenges)         |    [PCCP 모의고사 #1] 1번     |
+|  251015  |    LV2     |        [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)         |    79%     |
