@@ -59,4 +59,5 @@
 |  251013  |    LV1     |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)   |    87%     |
 |  251014  |    LV1     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |    73%     |
 |  251015  |    LV1     |       [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)        |    66%     |
+|  251016  |    LV1     |       [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)        |    87%     |
 |          |     LV     |                                          []()                                          |     %      |
