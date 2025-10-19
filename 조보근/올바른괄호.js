@@ -15,7 +15,7 @@ function solution(s) {
     if (s[i] === "(") {
       count++;
     } else {
-      count--;
+      count--; 
     }
 
     if (count < 0) {
@@ -25,3 +25,6 @@ function solution(s) {
 
   return count === 0;
 }
+
+
+
