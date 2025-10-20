@@ -55,3 +55,14 @@
 |  251010  |    LV1     |        [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)         |    71%     |
 |  251012  |    LV2     |        [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |    79%     |
 |  251012  |    LV2     |        [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)     |    80%     |
+
+
+### 6주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251013  |    LV1     |        [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)         |    88%     |
+|  251014  |    LV1     |        [외톨이알파벳](https://school.programmers.co.kr/tryouts/190154/challenges)         |    [PCCP 모의고사 #1] 1번     |
+|  251015  |    LV2     |        [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)         |    79%     |
+|  251017  |    LV2     |        [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |    65%     |
+|  251017  |    LV2     |        [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)         |    79%     |
