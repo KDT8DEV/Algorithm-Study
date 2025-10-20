@@ -66,3 +66,10 @@
 |  251015  |    LV2     |        [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)         |    79%     |
 |  251017  |    LV2     |        [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |    65%     |
 |  251017  |    LV2     |        [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)         |    79%     |
+
+
+### 7주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251020  |    LV2     |        [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)         |    78%     |
