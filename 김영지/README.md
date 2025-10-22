@@ -74,3 +74,4 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251020  |    LV2     |        [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)         |    78%     |
 |  251021  |    LV1     |        [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)         |    87%     |
+|  251022  |    LV1     |        [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)         |    74%     |
