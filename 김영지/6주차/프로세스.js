@@ -11,6 +11,7 @@
 /**
  * 나의 풀이
  */
+// priorities : 우선순위 배열, location : priorities의 인덱스
 // priorities 배열 순서에 맞게 알파벳 문자열을 매핑한 charArr 배열을 새로 만들어줬다.
 // location을 인덱스로 가지는 charArr값을 찾는 문자 findChar로 정의
 // priorities 배열 안 값이 모두 같은 값일 때까지 반복문을 돌린다.
@@ -23,35 +24,42 @@ function solution(priorities, location) {
     let maxSize = priorities.length;
     let charArr = new Array(maxSize);   // 문자 배열
     let maxIdx = 0;
-    let cnt = 0;
+    let cnt = 0;    // 꺼낸 횟수
     
+    // priorities 배열 순서에 맞게 알파벳 문자열을 매핑한 charArr 배열을 새로 만들어줬다.
     priorities.forEach((val, idx)=>{
         charArr[idx] = String.fromCharCode(65+idx);
     })
 
+    // location을 인덱스로 가지는 charArr값을 찾는 문자 findChar로 정의
     let findChar = charArr[location];   // 찾는 문자
 
+    // priorities 배열 안 값이 모두 같은 값일 때까지 반복문을 돌린다.
     while(new Set(priorities).size !== 1){
         // 최대값의 인덱스 구하기
         maxIdx = priorities.reduce((acc, cur, idx, array)=>{
             return array[acc] < cur ? idx : acc;
         },0);
 
+        // maxIdx 수만큼 prirorities와 charArr에서 요소를 꺼내 뒤로 보낸다.
         for(let i =0; i<maxIdx;i++){
             priorities.push(priorities.shift());
             charArr.push(charArr.shift());
         }
 
+        // 이때 findChar값과 charArr[0]이 같으면 꺼내는 횟수 cnt++ 해준 뒤 cnt값을 리턴한다.
         if(findChar == charArr[0]){
             cnt++;
             return cnt;
         }
+        // 같지 않으면 prirorities와 charArr의 첫번째 요소를 꺼내준 뒤 cnt++ 해준다.
         priorities.shift();
         charArr.shift();
         cnt++;
     }
 
-    return charArr.indexOf(findChar)+cnt+1;
+    // charArr에서 findChar가 몇번째 값인지 indexOf(findChar)+1 로 구하고 꺼낸 횟수 cnt를 더해준 값을 리턴
+    return cnt+charArr.indexOf(findChar)+1;
 }
 
 // 문제점
@@ -80,6 +88,9 @@ function solution(priorities, location) {
     while (queue.length) {
         const current = queue.shift();  // 맨 앞 문서 꺼내기
 
+        // max값을 구해서 비교하는 방법도 있음
+        // const maxPriority = Math.max(...queue.map(item => item.priority));
+        // if (current.priority < maxPriority) {
         // 현재 문서보다 우선순위가 높은 문서가 남아 있으면 뒤로 보냄
         if (queue.some(item => item.priority > current.priority)) {
             queue.push(current);
