@@ -76,3 +76,4 @@
 |  251021  |    LV1     |        [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)         |    87%     |
 |  251022  |    LV1     |        [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)         |    74%     |
 |  251023  |    LV1     |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)         |    88%     |
+|  251024  |    LV2     |        [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         |    62%     |
