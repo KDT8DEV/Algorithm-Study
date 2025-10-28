@@ -77,3 +77,11 @@
 |  251022  |    LV1     |        [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)         |    74%     |
 |  251023  |    LV1     |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)         |    88%     |
 |  251024  |    LV2     |        [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         |    62%     |
+
+
+### 8주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251027  |    LV2     |        [숫자의표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)         |    76%     |
+|  251028  |    LV1     |        [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)         |    86%     |
