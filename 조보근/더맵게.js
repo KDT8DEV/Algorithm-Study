@@ -25,7 +25,7 @@ scoville	K	return
 
 function solution(scoville, K) {
   let answer = 0;
-  scoville.sort((a, b) => a - b);
+  scoville.sort((a, b) => a - b); //오름차순
 
   while (scoville[0] < K) {
     if (scoville.length < 2) {
