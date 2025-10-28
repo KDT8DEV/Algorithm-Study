@@ -64,16 +64,6 @@
         <br />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/UyunChoi">
-        <img
-          src="https://avatars.githubusercontent.com/u/169183609?v=4"
-          width="100px"
-          height="100px"
-          alt="최우윤" />
-        <br />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -93,9 +83,6 @@
     </td>
     <td align="center">
       <b>조보근</b>
-    </td>
-    <td align="center">
-      <b>최우윤</b>
     </td>
   </tr>
 </table>
@@ -124,7 +111,6 @@
 | 4       | 임서인   | PCCP LV.3 이상 | JavaScript       |
 | 5       | 정성윤   | PCCP LV.2 이상 | JavaScript       |
 | 6       | 조보근   | PCCP LV.1 이상 | JavaScript       |
-| 7       | 최우윤   | PCCP LV.3 이상 | JavaScript       |
 
 ## 📌 진행 방법
 
