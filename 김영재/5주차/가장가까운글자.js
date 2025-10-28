@@ -23,5 +23,5 @@ function solution(s) {
         return result;
     })
  }
-console.log(solution("aaaaaaa"));
+console.log(solution("abcdefa"));
 
