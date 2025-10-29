@@ -85,3 +85,5 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251027  |    LV2     |        [숫자의표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)         |    76%     |
 |  251028  |    LV1     |        [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)         |    86%     |
+|  251029  |    LV1     |        [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)         |    82%     |
+|  251029  |    LV1     |        [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)         |    87%     |
