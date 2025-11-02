@@ -21,7 +21,6 @@ function solution(ability) {
     const M = ability[0].length;   // 종목 수
     let maxScore = 0;
     const visited = Array(N).fill(false); // 학생 사용 여부
-
     function dfs(depth, total) {
         if (depth === M) {
             maxScore = Math.max(maxScore, total);
@@ -32,10 +31,9 @@ function solution(ability) {
         for (let i = 0; i < N; i++) {
             console.log(` 사람: ${i} 검색 여부 : ${visited[i]} `)
             if (!visited[i]) {
-                
+        
                 visited[i] = true;
                 console.log(` 종목 : ${depth} 점수:${ability[i][depth]} 총합:${total} 최댓값 :${maxScore}`)    
-                
                 dfs(depth + 1, total + ability[i][depth]);
 
                 visited[i] = false;
