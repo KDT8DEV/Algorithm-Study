@@ -16,34 +16,31 @@ function solution(priorities, location) {
             priorities.push(priorities.shift()); //앞에 있는걸 맨 뒤로
             location = location === 0 ? priorities.length - 1 : location - 1; //0이었으면 위치를 맨 뒤로. 아니라면 한번 앞으로 땡겨줌
         } else {
-            priorities.shift(); //더 높은 우선순위가 없다면 그냥 삭제.
+            priorities.shift(); //더 높은 우선순위가 없다면 그냥 삭제(실행).
             count++; //몇번째에 있는지 확인.
             if (location === 0) {//내가 찾는 요소의 차례가 오면 
                 return count; //몇번쨰인지 반환
             }
             location--; //위치 땡기기
         }
+        console.log(priorities);
     }
 }
 console.log(solution([2, 1, 3, 2], 2));
+console.log(solution([1,1,9,1,1,1], 0));
 
 
 // function solution(priorities, location) { process_priority = priorities[location];
 // for (i in priorities) {
 //     for (j = 1; j < priorities.length; j++) {
 //         if (priorities[0] < priorities[j]) {
-//             console.log(priorities)
+            
 //             priorities.push(priorities.shift())
 //             if(location==0)location=priorities.length-1
 //             else location--;
 //         }
-
+//         console.log(priorities)
 //     }
-
 // }
-
 // return location+1;
-
-
-
 // }
