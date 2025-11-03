@@ -31,3 +31,33 @@
 |  250928  |    LV0     | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) |    90%     |
 |  250928  |    LV0     |  [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)  |    86%     |
 |  250928  |    LV1     |         [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)          |    67%     |
+
+### 4주차
+
+| **날짜** | **난이도** |                                      **문제 이름**                                      | **정답률** |
+| :------: | :--------: | :-------------------------------------------------------------------------------------: | :--------: |
+|  251001  |    LV0     |      [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)      |    90%     |
+|  251001  |    LV0     |   [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)    |    90%     |
+|  251005  |    LV0     | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) |    90%     |
+|  251005  |    LV0     |      [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)      |    89%     |
+|  251005  |    LV1     |   [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   |    79%     |
+
+### 5주차
+
+| **날짜** | **난이도** |                                     **문제 이름**                                     | **정답률** |
+| :------: | :--------: | :-----------------------------------------------------------------------------------: | :--------: |
+|  251012  |    LV0     |   [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)   |    89%     |
+|  251012  |    LV0     |   [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)   |    82%     |
+|  251012  |    LV0     |      [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)      |    88%     |
+|  251012  |    LV1     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) |    86%     |
+|  251012  |    LV2     |    [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)     |    79%     |
+
+### 6주차
+
+| **날짜** | **난이도** |                                     **문제 이름**                                      | **정답률** |
+| :------: | :--------: | :------------------------------------------------------------------------------------: | :--------: |
+|  251013  |    LV1     |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)   |    87%     |
+|  251014  |    LV1     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |    73%     |
+|  251015  |    LV1     |       [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)        |    66%     |
+|  251016  |    LV1     |       [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)        |    87%     |
+|          |     LV     |                                          []()                                          |     %      |

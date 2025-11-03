@@ -18,25 +18,22 @@ function solution(participant, completion) {
 }
 //이게 왜 되누..?
 
-/*
-function solution(participant, completion) {
-  for (let i = 0; i < completion.length; i++) {
-    for (let j = 0; j < participant.length; j++) {
-      if (completion[i] === participant[j]) {
-        participant.splice(j, 1);
-        break;
-      }
-    }
-  }
-  return participant[0];
-} 이렇게하면 값 나오잖아! 나오잖아! 다 맞은거잖아! 대체 왜 효율성테스트에서 실패야?? 효율 좋자나!!!
-*/
-/*
-function solution(participant, completion) {
-  let answer = participant.filter(function (person) {
-    //participant의 요소 하나씩 person에 넣어
-    return !completion.includes(person); //completion에 person이 포함되어있어?
-  });
-  return answer[0]; //아...이렇게 하면 마지막꺼만 안나와.. 다시 짜야해 Fuck!
-}
-  */
+// function solution(participant, completion) {
+//   for (let i = 0; i < completion.length; i++) {
+//     for (let j = 0; j < participant.length; j++) {
+//       if (completion[i] === participant[j]) {
+//         participant.splice(j, 1);
+//         break;
+//       }
+//     }
+//   }
+//   return participant[0];
+// } 이렇게하면 값 나오잖아! 나오잖아! 다 맞은거잖아! 대체 왜 효율성테스트에서 실패야?? 효율 좋자나!!!
+
+// function solution(participant, completion) {
+//   let answer = participant.filter(function (person) {
+//     //participant의 요소 하나씩 person에 넣어
+//     return !completion.includes(person); //completion에 person이 포함되어있어?
+//   });
+//   return answer[0]; //아...이렇게 하면 마지막꺼만 안나와.. mislav 딱 대.
+// }
