@@ -72,6 +72,17 @@
 |  251025  |    LV1     |   [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)    |    86%     |
 |  251026  |    LV2     |          [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)          |    62%     |
 
+### 8주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251028  |    LV1     | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) |    87%     |
+|  251101  |    LV0     |  [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)   |    87%     |
+|  251101  |    LV1     |    [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12930)    |    88%     |
+|  251101  |    LV1     |      [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)       |    81%     |
+|  251102  |    LV2     |      [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)       |    59%     |
+
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
