@@ -25,12 +25,12 @@ function solution(scoville, K) {
 }
 console.log(solution([1, 2, 3, 9, 10, 12],7));
 
+
+// 정렬...?
+// scoville	            K	return
+// [1, 2, 3, 9, 10, 12]	7	2
+
 /*
-정렬...?
-scoville	            K	return
-[1, 2, 3, 9, 10, 12]	7	2
-
-
 // # 최소 힙 구현
 class MinHeap {
   constructor(arr = []) {
@@ -77,29 +77,25 @@ class MinHeap {
     }
   }
   _heapify() {                            // # 배열 → 힙 (하향식)
-    for (let i = (this.h.length >> 1) - 1; i >= 0; i--) this._down(i);
+    for (let i = (this.h.length >> 1) - 1; i >= 0; i--) 
+    this._down(i);
   }
 }
+*/
 
-// # 스코빌 지수 문제 (최소 힙 사용: O(n log n))
 function solution(scoville, K) {
-  const heap = new MinHeap(scoville);     // # 초기 힙 구성
-  let answer = 0;                         // # 혼합 횟수
+  const heap = new MinHeap(scoville);     
+  let answer = 0;                         
+  if (heap.size() === 0) return -1;       
 
-  if (heap.size() === 0) return -1;       // # 빈 배열 예외
-
-  // # 최솟값이 K 미만이면 계속 섞기 (원소 2개 이상 필요)
   while (heap.size() >= 2 && heap.peek() < K) {
-    const a = heap.pop();                 // # 최솟값
-    const b = heap.pop();                 // # 두 번째 최솟값
-    heap.push(a + 2 * b);                 // # 혼합 후 삽입
-    answer++;                             // # 횟수 +1
+    const a = heap.pop();                 
+    const b = heap.pop();                 
+    heap.push(a + 2 * b);                 
+    answer++;                             
   }
 
-  // # 최종 최솟값이 K 이상이면 성공, 아니면 불가능
   return heap.peek() >= K ? answer : -1;
 }
 
-// # 테스트
 console.log(solution([1, 2, 3, 9, 10, 12], 7)); // 2
-*/
