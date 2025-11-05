@@ -96,3 +96,4 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251103  |    LV2     |        [체육대회](https://school.programmers.co.kr/tryouts/190155/challenges)         |    [PCCP 모의고사 #1] 2번     |
 |  251104  |    LV2     |        [유전법칙](https://school.programmers.co.kr/tryouts/190156/challenges)         |    [PCCP 모의고사 #1] 3번     |
+|  251105  |    LV2     |        [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         |    64%    |
