@@ -42,10 +42,10 @@ function solution(files) {
 */
 
 /*
- * 2. 나의 풀이 →
+ * 2. 나의 풀이 → 테스트 케이스 실패
  */
-function solution(files) {
-  // 1. 정규표현식을 사용해서 파일명 규칙을 정하기 → ❌ regex 수정([a-z-] => [^0-9])
+function solution2(files) {
+  // 1. 정규표현식을 사용해서 파일명 규칙을 정하기 → 실패 원인 1. ❌ regex 수정([a-z-] => [^0-9])
   const regex = /^([^0-9]+)([0-9]{1,5})(.*)$/i
 
   // 2. 파일명을 HEAD, NUMBER, TAIL로 분리
@@ -72,7 +72,7 @@ function solution(files) {
     if (a.number > b.number) return 1
     if (a.number < b.number) return -1
     // 3-3. 파일의 HEAD 부분과 NUMBER의 숫자도 같을 경우 원래 입력에 주어진 순서 유지
-    // ❌ if (a.head === b.head && a.number === a.number) return 0
+    // 실패원인 2 ❌ if (a.head === b.head && a.number === a.number) return 0
     if (a.head === b.head && a.number === b.number) return 0
     return 0
   })
