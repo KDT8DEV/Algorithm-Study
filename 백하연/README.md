@@ -30,7 +30,7 @@
 |  250925  |    LV0     |   [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)    |    89%     |
 |  250928  |    LV0     | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) |    90%     |
 |  250928  |    LV0     |  [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)  |    86%     |
-|  250928  |    LV1     |         [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)          |    67%     |
+|  250928  |    LV1     |    [(공통문제) 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)    |    67%     |
 
 ### 4주차
 
@@ -44,13 +44,13 @@
 
 ### 5주차
 
-| **날짜** | **난이도** |                                     **문제 이름**                                     | **정답률** |
-| :------: | :--------: | :-----------------------------------------------------------------------------------: | :--------: |
-|  251012  |    LV0     |   [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)   |    89%     |
-|  251012  |    LV0     |   [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)   |    82%     |
-|  251012  |    LV0     |      [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)      |    88%     |
-|  251012  |    LV1     | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) |    86%     |
-|  251012  |    LV2     |    [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)     |    79%     |
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251012  |    LV0     |     [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)     |    89%     |
+|  251012  |    LV0     |     [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)     |    82%     |
+|  251012  |    LV0     |        [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)        |    88%     |
+|  251012  |    LV1     |   [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)   |    86%     |
+|  251012  |    LV2     | [(공통문제) 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |    79%     |
 
 ### 6주차
 
@@ -60,7 +60,7 @@
 |  251014  |    LV1     | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |    73%     |
 |  251015  |    LV1     |       [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)        |    66%     |
 |  251016  |    LV1     |     [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)     |    87%     |
-|  251019  |    LV2     |      [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       |    65%     |
+|  251019  |    LV2     | [(공통문제) 프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |    65%     |
 
 ### 7주차
 
@@ -70,7 +70,7 @@
 |  251024  |    LV1     | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) |    86%     |
 |  251025  |    LV1     |     [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)     |    87%     |
 |  251025  |    LV1     |   [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)    |    86%     |
-|  251026  |    LV2     |          [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)          |    62%     |
+|  251026  |    LV2     |    [(공통문제) 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)     |    62%     |
 
 ### 8주차
 
@@ -80,8 +80,17 @@
 |  251101  |    LV0     |  [중복된 문자열 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)   |    87%     |
 |  251101  |    LV1     |    [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12930)    |    88%     |
 |  251101  |    LV1     |      [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)       |    81%     |
-|  251102  |    LV2     |      [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)       |    59%     |
+|  251102  |    LV2     | [(공통문제) 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |    59%     |
 
+### 9주차
+
+| **날짜** | **난이도** |                                      **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :--------------------------------------------------------------------------------------: | :--------: |
+|  251108  |    LV0     |    [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)     |    90%     |
+|  251108  |    LV0     |  [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)   |    90%     |
+|  251108  |    LV0     |     [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)      |    89%     |
+|  251108  |    LV1     |        [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)        |    73%     |
+|  251108  |    LV2     | [(공통문제) 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) |    59%     |
 
 ### N주차
 
