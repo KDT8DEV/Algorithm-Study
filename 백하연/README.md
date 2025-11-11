@@ -92,6 +92,16 @@
 |  251108  |    LV1     |        [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)        |    73%     |
 |  251108  |    LV2     | [(공통문제) 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) |    59%     |
 
+### 10주차
+
+| **날짜** | **난이도** |                                     **문제 이름**                                     | **정답률** |
+| :------: | :--------: | :-----------------------------------------------------------------------------------: | :--------: |
+|  251110  |    LV1     | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) |    82%     |
+|  251111  |    LV1     |        [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)        |    85%     |
+|          |     LV     |                                         []()                                          |     %      |
+|          |     LV     |                                         []()                                          |     %      |
+|          |     LV     |                                         []()                                          |     %      |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
