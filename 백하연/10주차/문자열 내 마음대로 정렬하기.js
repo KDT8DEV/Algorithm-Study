@@ -21,21 +21,16 @@ function solution(strings, n) {
 solution(['sun', 'bed', 'car'], 1) // ["car", "bed", "sun"]
 solution(['abce', 'abcd', 'cdx'], 2) // ["abcd", "abce", "cdx"]
 
-/* 다른 사람의 풀이
- * localeCompare() 메서드는 참조 문자열이 정렬 순으로 지정된 문자열 앞 혹은 뒤에 오는지 또는 동일한 문자열인지 나타내는 수치를 반환
- */
+/* 다른 사람의 풀이 */
 function other_solution(strings, n) {
-  console.log(
-    strings.sort((s1, s2) => {
-      if (s1[n] === s2[n]) {
-        console.log(s1.localeCompare(s2))
-      }
-    })
-  )
-
   return strings.sort((s1, s2) =>
     s1[n] === s2[n] ? s1.localeCompare(s2) : s1[n].localeCompare(s2[n])
   )
 }
-console.log(other_solution(['sun', 'bed', 'car'], 1))
-console.log(other_solution(['abce', 'abcd', 'cdx'], 2))
+other_solution(['sun', 'bed', 'car'], 1)
+other_solution(['abce', 'abcd', 'cdx'], 2)
+
+// localeCompare() 메서드는 참조 문자열이 정렬 순으로 지정된 문자열 앞 혹은 뒤에 오는지 또는 동일한 문자열인지 나타내는 수치를 반환
+// string.localeCompare(compareString, locales, options)
+const words = ['sun', 'bed', 'car', 'abce', 'abcd', 'cdx']
+console.log(words.sort((a, b) => a.localeCompare(b)))
