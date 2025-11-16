@@ -2,7 +2,7 @@ function solution(record) {
     let name = {};
     record.forEach(element => {
         let log = element.split(" ")
-        if (log[0] !== "Leave") {
+        if (log[0] !== "Leave") {//"Leave" 명령에는 닉네임 정보가 포함X
 
         name[log[1]] = log[2];
         }
