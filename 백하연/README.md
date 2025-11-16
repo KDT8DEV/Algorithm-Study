@@ -99,8 +99,8 @@
 |  251110  |    LV1     |     [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)      |    82%     |
 |  251111  |    LV1     |            [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)             |    85%     |
 |  251113  |    LV1     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |    72%     |
-|          |     LV     |                                              []()                                              |     %      |
-|          |     LV     |                                              []()                                              |     %      |
+|  251115  |    LV2     |         [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |    72%     |
+|          |    LV2     |    [(공통문제) 타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)     |    64%     |
 
 ### N주차
 
