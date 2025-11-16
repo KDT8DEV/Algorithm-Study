@@ -3,7 +3,6 @@ function slicefile(file) {
     let numberStr = "";
     let i = 0;
 
-    //문자
     while (i < file.length) {
         let char = file[i];
         if (char >= '0' && char <= '9') {
@@ -12,7 +11,6 @@ function slicefile(file) {
         head += char;
         i++;
     }
-    //숫자
     while (i < file.length) {
         let char = file[i];
         if (char < '0' || char > '9') {
