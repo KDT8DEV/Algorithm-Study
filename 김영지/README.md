@@ -109,3 +109,10 @@
 |  251114  |    LV1     |        [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)    |    75%     |
 |  251114  |    LV2     |        [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)    |    61%     |
 |  251114  |    LV1     |        [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)    |    68%     |
+
+### 11주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251118  |    LV1     |        [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)    |    88%     |
+|  251118  |    LV1     |        [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)    |    85%     |
