@@ -100,7 +100,17 @@
 |  251111  |    LV1     |            [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)             |    85%     |
 |  251113  |    LV1     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |    72%     |
 |  251115  |    LV2     |         [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |    72%     |
-|          |    LV2     |    [(공통문제) 타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)     |    64%     |
+|  251116  |    LV2     |    [(공통문제) 타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)     |    64%     |
+
+### 11주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                        | **정답률** |
+| :------: | :--------: | :----------------------------------------------------------------------------------------: | :--------: |
+|  251122  |    LV1     |       [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)       |    86%     |
+|  251122  |    LV1     | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) |    85%     |
+|  251122  |    LV1     |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)        |    88%     |
+|  251122  |    LV1     |       [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)        |    71%     |
+|  251122  |    LV2     |   [(공통문제) 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)   |    72%     |
 
 ### N주차
 
