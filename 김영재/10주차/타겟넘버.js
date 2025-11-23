@@ -17,10 +17,9 @@ function solution(numbers, target) {
         dfs(index + 1, sum - numbers[index]);
     }
 
-    dfs(0, 0); // 시작은 인덱스 0, 합계 0에서 시작
+    dfs(0, 0);
     return answer;
 }
 
-// 테스트
 console.log(solution([1, 1, 1, 1, 1], 3)); // 5
 console.log(solution([4, 1, 2, 1], 4));    // 2
