@@ -66,3 +66,25 @@
 |  251015  |    LV2     |        [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)         |    79%     |
 |  251017  |    LV2     |        [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)         |    65%     |
 |  251017  |    LV2     |        [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)         |    79%     |
+
+
+### 7주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251020  |    LV2     |        [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)         |    78%     |
+|  251021  |    LV1     |        [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)         |    87%     |
+|  251022  |    LV1     |        [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)         |    74%     |
+|  251023  |    LV1     |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)         |    88%     |
+|  251024  |    LV2     |        [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)         |    62%     |
+
+
+### 8주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251027  |    LV2     |        [숫자의표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)         |    76%     |
+|  251028  |    LV1     |        [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)         |    86%     |
+|  251029  |    LV1     |        [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)         |    82%     |
+|  251029  |    LV1     |        [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)         |    87%     |
+|  251031  |    LV2     |        [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)         |    59%     |

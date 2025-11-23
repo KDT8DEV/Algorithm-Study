@@ -5,11 +5,11 @@ function solution(s){
         if (s[i] == "("){
             stack.push(s[i])
         }
-        else{
+        else{ // )
             if (stack.length > 0 && stack[stack.length-1]=="("){
                 stack.pop()
             }
-            else{
+            else{ 
                 stack.push(s[i])
             }
         }
@@ -20,7 +20,7 @@ function solution(s){
     else{
         return false
     }
-}
+} // else ) 처리는 어떻게 될지
 console.log(solution("(()("));
 
 // function solution(s){
@@ -37,7 +37,7 @@ console.log(solution("(()("));
 //         }
 //     }
 //     if (lcnt == rcnt){
-//         if (arr[arr.length-1]=="("){
+//         if (arr[arr.length-1]=="("){ // 안닫힐경우
 //             return false
 //         }
 //         else if (arr[arr.length-1]==")"){
@@ -48,5 +48,5 @@ console.log(solution("(()("));
 //         return false;
 //     }
 // }
-
+//   
 // console.log(solution("(()("));
