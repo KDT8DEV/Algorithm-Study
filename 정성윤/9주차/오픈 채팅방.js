@@ -9,6 +9,8 @@ function solution(record) {
             userMap.set(uid, nickname);
         }
     }
+    //맵에 최신 이름 저장해주고
+    
     //2차 순회 출력
     for (let i = 0; i < record.length; i++) {
         let [command, uid] = record[i].split(' ');

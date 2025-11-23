@@ -41,3 +41,37 @@ Muzi가 나간후 다시 들어올 때, Prodo 라는 닉네임으로 들어올 �
 
 채팅방에 들어오고 나가거나, 닉네임을 변경한 기록이 담긴 문자열 배열 record가 매개변수로 주어질 때, 모든 기록이 처리된 후, 최종적으로 방을 개설한 사람이 보게 되는 메시지를 문자열 배열 형태로 return 하도록 solution 함수를 완성하라.
 */
+
+function solution(record) {
+  // 각 유저의 최종 닉네임 저장
+  const finalNickname = {};
+
+  // 모든 기록을 보면서 최종 닉네임 찾기
+  for (let i = 0; i < record.length; i++) {
+    const parts = record[i].split(" ");
+    const action = parts[0];
+    const userId = parts[1];
+    const nickname = parts[2];
+
+    if (action === "Enter" || action === "Change") {
+      finalNickname[userId] = nickname;
+    }
+  }
+
+  // 결과 메시지 만들기
+  const result = [];
+
+  for (let i = 0; i < record.length; i++) {
+    const parts = record[i].split(" ");
+    const action = parts[0];
+    const userId = parts[1];
+
+    if (action === "Enter") {
+      result.push(finalNickname[userId] + "님이 들어왔습니다.");
+    } else if (action === "Leave") {
+      result.push(finalNickname[userId] + "님이 나갔습니다.");
+    }
+  }
+
+  return result;
+}
