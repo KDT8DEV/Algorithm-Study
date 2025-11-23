@@ -1,7 +1,5 @@
 name: Auto Assignment
 on:
-  issues:
-    types: [opened]
   pull_request_target:
     types: [opened, reopened]
   label:
