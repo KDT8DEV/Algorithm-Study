@@ -119,3 +119,10 @@
 |  251121  |    LV1     |        [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)    |    60%     |
 |  251121  |    LV1     |        [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)    |    86%     |
 |  251122  |    LV2     |        [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    |    72%     |
+
+### 12주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251125  |    LV1     |        [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)    |    88%     |
+|  251125  |    LV1     |        [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)    |    86%     |
