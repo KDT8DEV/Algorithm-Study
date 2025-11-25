@@ -126,3 +126,4 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251125  |    LV1     |        [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)    |    88%     |
 |  251125  |    LV1     |        [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)    |    86%     |
+|  251125  |    LV2     |        [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)    |    72%     |
