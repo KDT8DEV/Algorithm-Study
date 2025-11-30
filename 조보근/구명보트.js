@@ -26,3 +26,4 @@ function solution(people, limit) {
   }
   return count;
 }
+//투포인터
