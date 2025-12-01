@@ -129,3 +129,11 @@
 |  251125  |    LV2     |        [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)    |    72%     |
 |  251128  |    LV2     |        [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)    |    75%     |
 |  251128  |    LV1     |        [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |    59%     |
+
+
+### 13주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251201  |    LV2     |        [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)    |    75%     |
+|  251201  |    LV2     |        [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)    |    73%     |
