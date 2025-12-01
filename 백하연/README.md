@@ -112,6 +112,16 @@
 |  251122  |    LV1     |       [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)        |    71%     |
 |  251122  |    LV2     |   [(공통문제) 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)   |    72%     |
 
+### 12주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                        | **정답률** |
+| :------: | :--------: | :----------------------------------------------------------------------------------------: | :--------: |
+|  251130  |    LV0     |     [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)      |    89%     |
+|  251130  |    LV1     |   [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)    |    77%     |
+|  251130  |    LV1     |  [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)   |    84%     |
+|  251130  |    LV1     | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) |    79%     |
+|  251130  |    LV1     |    [(공통문제) 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |    59%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
