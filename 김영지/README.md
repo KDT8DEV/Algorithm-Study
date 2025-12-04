@@ -138,3 +138,4 @@
 |  251201  |    LV2     |        [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)    |    75%     |
 |  251201  |    LV2     |        [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)    |    73%     |
 |  251202  |    LV1     |        [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)    |    85%     |
+|  251204  |    LV2     |        [동영상 계산기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)    |    41%     |
