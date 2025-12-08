@@ -122,6 +122,16 @@
 |  251130  |    LV1     | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) |    79%     |
 |  251130  |    LV1     |    [(공통문제) 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |    59%     |
 
+### 13주차
+
+| **날짜** | **난이도** |                                        **문제 이름**                                         | **정답률** |
+| :------: | :--------: | :------------------------------------------------------------------------------------------: | :--------: |
+|  251206  |    LV1     |       [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)       |    88%     |
+|  251206  |    LV1     |       [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)       |    53%     |
+|  251206  |    LV1     |   [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)    |    30%     |
+|  251206  |    LV1     |        [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)        |    88%     |
+|  251207  |    LV1     | [(공통문제) 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) |    41%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
