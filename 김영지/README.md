@@ -147,3 +147,4 @@
 | :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
 |  251209  |    LV2     |        [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)    |    69%     |
 |  251209  |    LV2     |        [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    |    66%     |
+|  251210  |    LV2     |        [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)    |    71%     |
