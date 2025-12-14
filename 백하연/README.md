@@ -132,6 +132,16 @@
 |  251206  |    LV1     |        [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)        |    88%     |
 |  251207  |    LV1     | [(공통문제) 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) |    41%     |
 
+### 14주차
+
+| **날짜** | **난이도** |                                          **문제 이름**                                          | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------------: | :--------: |
+|  251214  |    LV0     |        [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822)        |    90%     |
+|  251214  |    LV0     |        [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)        |    90%     |
+|  251214  |    LV0     |     [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)     |    89%     |
+|  251214  |    LV1     |  [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   |    88%     |
+|  251214  |    LV2     | [(공통문제) 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) |    45%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
