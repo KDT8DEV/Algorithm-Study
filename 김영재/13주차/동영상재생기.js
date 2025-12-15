@@ -1,3 +1,9 @@
+// 1. 10초 전으로 이동: 사용자가 "prev" 명령을 입력할 경우 동영상의 재생 위치를 현재 위치에서 10초 전으로 이동합니다.
+//  현재 위치가 10초 미만인 경우 영상의 처음 위치로 이동합니다. 영상의 처음 위치는 0분 0초입니다.
+// 2. 10초 후로 이동: 사용자가 "next" 명령을 입력할 경우 동영상의 재생 위치를 현재 위치에서 10초 후로 이동합니다.
+//  동영상의 남은 시간이 10초 미만일 경우 영상의 마지막 위치로 이동합니다. 영상의 마지막 위치는 동영상의 길이와 같습니다.
+// 3. 오프닝 건너뛰기: 현재 재생 위치가 오프닝 구간(op_start ≤ 현재 재생 위치 ≤ op_end)인 경우
+//  자동으로 오프닝이 끝나는 위치로 이동합니다.
 function solution(video_len, pos, op_start, op_end, commands) {
   // "mm:ss" → 초 변환
   const toSeconds = str => {
@@ -11,7 +17,7 @@ function solution(video_len, pos, op_start, op_end, commands) {
     const s = sec % 60;
     return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
   };
-
+  
   const videoLenSec = toSeconds(video_len);
   let posSec = toSeconds(pos);
   const opStartSec = toSeconds(op_start);
