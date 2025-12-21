@@ -76,47 +76,47 @@ function solution(diffs, times, limit) {
 // Math.max(...) 쓰면 안됨
 // Math.max(...diffs) 처럼 스프레드 연산자(...)로 큰 배열을 Math.max에 전달하면 V8 엔진에서 인수 개수/스택 한계 때문에 
 // 런타임 에러(RangeError / 호출 스택/인수 제한 초과)가 발생
-function solution(diffs, times, limit){
-    let left = 1;
-    let right = Math.max(...diffs);
-    let answer = right;
+// function solution(diffs, times, limit){
+//     let left = 1;
+//     let right = Math.max(...diffs);
+//     let answer = right;
 
-    // 통과 여부 체크 함수
-    const canPass = (level) => {
-        let takeTime = times[0];   // 소요시간
-        for(let j = 1; j<diffs.length;j++){
+//     // 통과 여부 체크 함수
+//     const canPass = (level) => {
+//         let takeTime = times[0];   // 소요시간
+//         for(let j = 1; j<diffs.length;j++){
 
-            if(level>=diffs[j]){
-                takeTime += times[j];
-            }
-            else{
-                // 틀린횟수
-                let noCnt = diffs[j] - level;
-                takeTime += (times[j-1] + times[j])*noCnt + times[j];
-            }
+//             if(level>=diffs[j]){
+//                 takeTime += times[j];
+//             }
+//             else{
+//                 // 틀린횟수
+//                 let noCnt = diffs[j] - level;
+//                 takeTime += (times[j-1] + times[j])*noCnt + times[j];
+//             }
 
-            if(limit < takeTime) return false;
-        }
+//             if(limit < takeTime) return false;
+//         }
         
-        return true;
-    }
+//         return true;
+//     }
 
-    // 이진탐색: 최소 level 탐색
-    while(left <= right){
-        let mid = Math.floor((left+right)/2);
-        if(canPass(mid)){
-            answer = mid;
-            right = mid -1;     // 더 작은 값이 가능한지 확인
-        }else{
-            left = mid + 1;
-        }
-    }
+//     // 이진탐색: 최소 level 탐색
+//     while(left <= right){
+//         let mid = Math.floor((left+right)/2);
+//         if(canPass(mid)){
+//             answer = mid;
+//             right = mid -1;     // 더 작은 값이 가능한지 확인
+//         }else{
+//             left = mid + 1;
+//         }
+//     }
 
-    return answer;
+//     return answer;
 
-}
+// }
 
-solution([1, 5, 3], [2, 4, 7], 30);
+// solution([1, 5, 3], [2, 4, 7], 30);
 
 
 
