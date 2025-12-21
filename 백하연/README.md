@@ -142,6 +142,16 @@
 |  251214  |    LV1     |  [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   |    88%     |
 |  251214  |    LV2     | [(공통문제) 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) |    45%     |
 
+### 15주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251221  |    LV0     |       [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)       |    91%     |
+|  251221  |    LV0     |   [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)   |    90%     |
+|  251221  |    LV0     |    [옷가게 할인받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)    |    89%     |
+|  251221  |    LV1     | [x만큼 간격이 있는 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |    88%     |
+|  251221  |    LV1     |  [(공통문제) 붕대감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)  |    44%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
