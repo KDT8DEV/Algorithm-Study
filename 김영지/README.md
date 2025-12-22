@@ -150,3 +150,13 @@
 |  251210  |    LV2     |        [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)    |    71%     |
 |  251212  |    LV2     |        [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)    |    71%     |
 |  251212  |    LV2     |        [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)    |    45%     |
+
+### 15주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251219  |    LV3     |        [정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)    |    64%     |
+|  251220  |    LV2     |        [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)    |    71%     |
+|  251221  |    LV2     |        [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)    |    71%     |
+|  251221  |    LV1     |        [붕대감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)    |    44%     |
+|  251221  |    LV1     |        [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)    |    73%     |
