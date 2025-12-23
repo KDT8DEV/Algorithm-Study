@@ -10,20 +10,20 @@ Leo는 모든 음식의 스코빌 지수가 K 이상이 될 때까지 반복하�
 Leo가 가진 음식의 스코빌 지수를 담은 배열 scoville과 원하는 스코빌 지수 K가 주어질 때,
  모든 음식의 스코빌 지수를 K 이상으로 만들기 위해 섞어야 하는 최소 횟수를 return
 */
-function solution(scoville, K) {
-    var answer = 0;
-    scoville.sort((a, b) => a - b);
+// function solution(scoville, K) {
+//     var answer = 0;
+//     scoville.sort((a, b) => a - b);
 
-    while(scoville[0]<K){
-        let a = scoville.shift()
-        let b = scoville.shift()
-        scoville.push(a+2*b)
-        scoville.sort((a, b) => a - b);
-        answer += 1
-    }
-    return scoville[0] >= K ? answer: -1;
-}
-console.log(solution([1, 2, 3, 9, 10, 12],7));
+//     while(scoville[0]<K){
+//         let a = scoville.shift()
+//         let b = scoville.shift()
+//         scoville.push(a+2*b)
+//         scoville.sort((a, b) => a - b);
+//         answer += 1
+//     }
+//     return scoville[0] >= K ? answer: -1;
+// }
+// console.log(solution([1, 2, 3, 9, 10, 12],7));
 
 
 // 정렬...?
