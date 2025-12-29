@@ -160,3 +160,13 @@
 |  251221  |    LV2     |        [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)    |    71%     |
 |  251221  |    LV1     |        [붕대감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)    |    44%     |
 |  251221  |    LV1     |        [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)    |    73%     |
+
+### 16주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  251222  |    LV2     |        [예상대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)    |    70%     |
+|  251223  |    LV2     |        [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)    |    43%     |
+|  251223  |    LV3     |        [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)    |    20%     |
+|  251229  |    LV2     |        [할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)    |    69%     |
+|  251229  |    LV1     |        [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)    |    50%     |
