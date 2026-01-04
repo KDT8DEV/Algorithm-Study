@@ -24,15 +24,13 @@ function solution(bandage, health, attacks) {
 
     if (nowHealth > health) {
       nowHealth = health;
-
-      time = attackTime;
-      nowHealth = nowHealth - damage;
-
-      if (nowHealth <= 0) {
-        return -1;
-      }
     }
+    time = attackTime;
+    nowHealth = nowHealth - damage;
 
-    return nowHealth;
+    if (nowHealth <= 0) {
+      return -1;
+    }
   }
+  return nowHealth;
 }
