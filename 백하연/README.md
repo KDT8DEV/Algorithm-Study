@@ -152,6 +152,16 @@
 |  251221  |    LV1     | [x만큼 간격이 있는 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) |    88%     |
 |  251221  |    LV1     |  [(공통문제) 붕대감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)  |    44%     |
 
+### 16주차
+
+| **날짜** | **난이도** |                                        **문제 이름**                                        | **정답률** |
+| :------: | :--------: | :-----------------------------------------------------------------------------------------: | :--------: |
+|  260104  |    LV1     | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |    78%     |
+|  260104  |    LV1     |        [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)        |    65%     |
+|  260104  |    LV1     |    [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)    |    85%     |
+|  260104  |    LV1     |  [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)   |    85%     |
+|  260104  |    LV1     |  [(공통문제) 유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)  |    50%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
