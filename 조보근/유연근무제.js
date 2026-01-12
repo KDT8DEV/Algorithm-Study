@@ -7,73 +7,50 @@
 직원 n명이 설정한 출근 희망 시각을 담은 1차원 정수 배열 schedules, 직원들이 일주일 동안 출근한 시각을 담은 2차원 정수 배열 timelogs, 이벤트를 시작한 요일을 의미하는 정수 startday가 매개변수로 주어집니다. 이때 상품을 받을 직원의 수를 return 하도록 solution 함수를 완성해주세요. */
 
 function solution(schedules, timelogs, startday) {
-  let answer = 0;
+  // 직원 수
+  const n = schedules.length;
+  let count = 0;
 
-  function useday(startday) {
-    1 <= startday <= 7;
-    if (startday === 6 || startday === 7) {
-      return false;
-    }
-    return true;
+  // 시간(예: 958)을 분 단위로 바꿔서 더하거나 비교하기 쉬운 형태로 변환
+  function toMinutes(hhmm) {
+    const h = Math.floor(hhmm / 100);
+    const m = hhmm % 100;
+    return h * 60 + m;
   }
 
-  function myschedules(schedules) {
-    let mytime = [];
-    for (let i = 0; i < schedules.length; i++) {
-      mytime.push(schedules[i] + 10);
-    }
-    return mytime;
+  // schedules[i]에 minutes를 더한 뒤 다시 HHMM 형태로 반환 (필요는 아니지만 가독성 위해 유지)
+  function addMinutesAsHHMM(hhmm, minutes) {
+    const total = toMinutes(hhmm) + minutes;
+    const h = Math.floor(total / 60);
+    const m = total % 60;
+    return h * 100 + m;
   }
-  for (let i = 0; i < timelogs.length; i++) {
-    if (myschedules(schedules)[i] >= timelogs[i]) {
-      answer += 1;
-    }
-    startday += 1;
-    if (startday > 7) {
-      startday = 1;
-    }
-    if (!useday(startday)) {
-      i -= 1;
-    }
+
+  // 주어진 startday에서 j번째 날의 요일(1..7) 계산
+  function dayOf(startday, j) {
+    return ((startday - 1 + j) % 7) + 1; // 1..7
   }
-  return answer;
-}
 
-/* 
+  for (let i = 0; i < n; i++) {
+    // 직원 i의 허용 마감 시간(HHMM) = 희망시간 + 10분
+    const deadline = addMinutesAsHHMM(schedules[i], 10);
 
-function solution(schedules, timelogs, startday) {
-  let answer = 0;
-  let dayIndex = 0;
+    let ok = true;
+    for (let j = 0; j < 7; j++) {
+      const weekday = dayOf(startday, j); // 1~7
+      // 토요일(6), 일요일(7)은 이벤트에 영향 없음
+      if (weekday === 6 || weekday === 7) continue;
 
-  for (let i = 0; i < timelogs.length; i++) {
-    const currentDay = (startday + dayIndex - 1) % 7 + 1; // 현재 요일
-
-    // 토요일(6), 일요일(7) 제외
-    if (currentDay !== 6 && currentDay !== 7) {
-      const schedule = schedules[i];
-      const actualTime = timelogs[i];
-      const deadline = addMinutes(schedule, 10); // 희망시간 + 10분
-
-      // 실제 시간이 마감시간 이내인지 확인
-      if (actualTime <= deadline) {
-        answer++;
+      const actual = timelogs[i][j];
+      // 실제 출근 시간이 마감 시간 이내인지 확인
+      if (actual > deadline) {
+        ok = false;
+        break;
       }
     }
 
-    dayIndex++;
+    if (ok) count++;
   }
 
-  return answer;
+  return count;
 }
-
-function addMinutes(time, minutes) {
-  const hour = Math.floor(time / 100);
-  const min = (time % 100) + minutes;
-  
-  if (min >= 60) {
-    return (hour + 1) * 100 + (min - 60);
-  }
-  return hour * 100 + min;
-} 
-
-*/
