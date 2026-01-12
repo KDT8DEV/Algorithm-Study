@@ -162,6 +162,16 @@
 |  260104  |    LV1     |  [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)   |    85%     |
 |  260104  |    LV1     |  [(공통문제) 유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)  |    50%     |
 
+### 17주차
+
+| **날짜** | **난이도** |                                         **문제 이름**                                         | **정답률** |
+| :------: | :--------: | :-------------------------------------------------------------------------------------------: | :--------: |
+|  260111  |    LV0     |    [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     |    90%     |
+|  260111  |    LV0     | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)  |    90%     |
+|  260111  |    LV1     |          [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)           |    77%     |
+|  260111  |    LV1     |            [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)            |    77%     |
+|  260111  |    LV2     | [(공통문제) 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) |    53%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
