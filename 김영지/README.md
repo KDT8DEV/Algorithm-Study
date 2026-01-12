@@ -170,3 +170,13 @@
 |  251223  |    LV3     |        [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)    |    20%     |
 |  251229  |    LV2     |        [할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)    |    69%     |
 |  251229  |    LV1     |        [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)    |    50%     |
+
+### 17주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  260109  |    LV1     |        [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)    |    88%     |
+|  260109  |    LV1     |        [정수 내립차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)    |    88%     |
+|  260109  |    LV1     |        [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)    |    88%     |
+|  260109  |    LV1     |        [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)    |    86%     |
+|  260109  |    LV2     |        [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)    |    53%     |
