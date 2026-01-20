@@ -180,3 +180,13 @@
 |  260109  |    LV1     |        [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)    |    88%     |
 |  260109  |    LV1     |        [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)    |    86%     |
 |  260109  |    LV2     |        [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)    |    53%     |
+
+### 18주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: |
+|  260119  |    LV2     |        [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)    |    31%     |
+|  260120  |    LV0     |        [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)    |    88%     |
+|  260120  |    LV1     |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)    |    85%     |
+|  260120  |    LV1     |        [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    |    84%     |
+|  260120  |    LV1     |        [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)    |    80%     |
