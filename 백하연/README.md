@@ -172,6 +172,16 @@
 |  260111  |    LV1     |            [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)            |    77%     |
 |  260111  |    LV2     | [(공통문제) 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) |    53%     |
 
+### 18주차
+
+| **날짜** | **난이도** |                                      **문제 이름**                                       | **정답률** |
+| :------: | :--------: | :--------------------------------------------------------------------------------------: | :--------: |
+|  260118  |    LV0     |    [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)     |    90%     |
+|  260118  |    LV0     |    [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)    |    90%     |
+|  260118  |    LV1     |      [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)      |    88%     |
+|  260118  |    LV1     |   [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)    |    68%     |
+|  260118  |    LV2     | [(공통문제) 완전 범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |    31%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |

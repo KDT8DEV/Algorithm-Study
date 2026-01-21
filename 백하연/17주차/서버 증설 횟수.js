@@ -11,9 +11,11 @@ function solution(players, m, k) {
 
   for (let hour = 0; hour < players.length; hour++) {
     const needed = Math.floor(players[hour] / m); // 현재 필요한 최소 서버 수
+
     // 현재 시간대에 운영 중인 서버 수 계산
+    // hour = 10, k = 5일 때 Math.max(0, 10 - 5 + 1) => 6이니까 .slice(6, 10) => 배열의 6,7,8,9에 해당하는 값만 가져와서 reduce로 합산
     const current = logList
-      .slice(Math.max(0, hour - k + 1), hour)
+      .slice(Math.max(0, hour - k + 1), hour) // slice를 사용해 현재 시각(hour)부터 k시간 이내에 설치된 기록만 추출
       .reduce((prev, cur) => prev + cur, 0); // 현재 시간대에 운영 중인 서버 수
 
     if (needed > current) {
