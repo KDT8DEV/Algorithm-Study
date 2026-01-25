@@ -1,4 +1,4 @@
-/**
+/** @TODO: 문제 풀이 복기, 정말 DP를 잘 몰라서 어려웠던 걸까?
  * 동적 계획법(Dynamic Programming, DP)
  * 문제 핵심 : 각 물건마다 A가 훔칠지, B가 훔칠지 결정하는 것인데, 물건의 개수가 많아질수록 가능한 모든 경우의 수를 따지기에는 시간이 너무 많이 걸리기 때문
  * @param {number[]} info 각 물건을 훔칠 때 생기는 흔적에 대한 정보
@@ -14,7 +14,6 @@ function solution(info, n, m) {
     const next_dp = Array(m).fill(Infinity);
 
     for (let i = 0; i < m; i++) {
-
       if (dp[i] === Infinity) continue;
 
       next_dp[i] = Math.min(next_dp[i], dp[i] + a);
@@ -23,13 +22,10 @@ function solution(info, n, m) {
         next_dp[i + b] = Math.min(next_dp[i + b], dp[i]);
       }
     }
-    console.log('next_dp', next_dp);
     dp = next_dp;
   }
 
   const ATraces = dp.filter((value) => value < n);
-
-  console.log(ATraces, Math.min(...ATraces));
 
   if (ATraces.length > 0) {
     return Math.min(...ATraces);
