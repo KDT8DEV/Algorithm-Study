@@ -182,6 +182,16 @@
 |  260118  |    LV1     |   [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)    |    68%     |
 |  260118  |    LV2     | [(공통문제) 완전 범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |    31%     |
 
+### 19주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                        | **정답률** |
+| :------: | :--------: | :----------------------------------------------------------------------------------------: | :--------: |
+|  260125  |    LV2     | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |    79%     |
+|  260125  |    LV2     |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |    79%     |
+|  260125  |    LV2     |       [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       |    76%     |
+|  260125  |    LV1     | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  |    75%     |
+|  260125  |    LV3     |  [(공통문제) 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |    56%     |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
