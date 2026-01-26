@@ -190,3 +190,13 @@
 |  260120  |    LV1     |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)    |    85%     |
 |  260120  |    LV1     |        [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    |    84%     |
 |  260120  |    LV1     |        [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)    |    80%     |
+
+### 19주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** | **문제유형** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: | :----------: |
+|  260125  |    LV1     |        [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)    |    77%     |
+|  260125  |    LV1     |        [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |    73%     |
+|  260125  |    LV1     |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)    |    77%     |  그리디  |
+|  260125  |    LV3     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)    |    56%     |  해시  |
+|  260125  |    LV2     |        [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)    |    70%     |  슬라이딩 윈도우  |
