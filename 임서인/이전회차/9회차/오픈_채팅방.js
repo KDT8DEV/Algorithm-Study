@@ -1,11 +1,11 @@
 function solution(record, answer = []) {
-  let nameMap = new Map(); // 유저 객체
-  let idxMap = new Map();
+  let nameMap = new Map(); // 유저 객체 {id name}
+  let idxMap = new Map(); // {id idx}
   record.forEach((e, idx) => {
     let inform = e.split(' ');
 
     const direction = inform[0]; // Enter
-    const userId = inform[1]; // uid1234
+    const userId = inform[1]; // uid1234gt
     const nickname = inform[2]; // Muzi
     const hasUserId = nameMap.has(userId);
     let deleteFlag = false;
@@ -101,12 +101,9 @@ Change {id:name}*/
 // 결국은 새로 업데이트하는 것을 납득하고 말았다..
 function solution(record, answer = [], realAnswer = []) {
   let nameMap = new Map(); // 유저 객체
-  record.forEach((e, idx) => {
+  record.forEach((e) => {
     let inform = e.split(' ');
-
-    const direction = inform[0];
-    const userId = inform[1];
-    const nickname = inform[2]; // delete에서는
+    let [direction, userId, nickname] = inform;
     const hasUserId = nameMap.has(userId);
 
     if (direction == 'Enter') {
@@ -128,7 +125,9 @@ function solution(record, answer = [], realAnswer = []) {
       console.log('다른 direction 등장');
     }
   });
-
+  // 여러분 하시는 거 보니까
+  // 굳이 처음부터 answer에 push할 필요가 없는 것 같아서
+  // 그 방향으로 수정해보면 좋을 것 같습니다
   answer.forEach((e) => {
     let index = answer[0].indexOf('님');
     let userId = e.substr(0, index);
@@ -137,3 +136,8 @@ function solution(record, answer = [], realAnswer = []) {
   return realAnswer;
 }
 // 근데 테스트 케이스만 되고 제출에서는 6.3점임,,,,
+
+for (let i = 0, j = 3; j < 7; i++, j++) {
+  console.log(i);
+  console.log(j);
+}

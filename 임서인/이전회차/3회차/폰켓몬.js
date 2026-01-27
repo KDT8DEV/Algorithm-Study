@@ -28,17 +28,6 @@ function solution(nums) {
   return mons.size >= max ? max : mons.size;
 }*/
 
-/*
-// 다른 사람 코드
-function solution(nums) {
-  const max = nums.length / 2;
-  const arr = [...new Set(nums)];
-  
-
-  return arr.length > max ? max : arr.length;
-}
-  */
-
 // 첫번째 시도
 // function solution(nums) {
 //   let mons = new Map();
@@ -55,6 +44,14 @@ function solution(nums) {
 //   return answer;
 // }
 
+// 다른 사람 코드
+function solution(nums) {
+  const max = nums.length / 2;
+  const arr = [...new Set(nums)];
+
+  return arr.length > max ? max : arr.length;
+}
+
 // 코드에 응용해봄
 function solution(nums) {
   let max = nums.length / 2;
@@ -64,6 +61,25 @@ function solution(nums) {
   return mons.size >= max ? max : mons.size;
 }
 
+// 코드에 응용해봄
+function solution(nums) {
+  let max = nums.length / 2;
+  let mons = new Set(nums);
+  console.log(mons);
+
+  return mons.size >= max ? max : mons.size;
+}
+
+// 보근님 코드
+function solution(nums) {
+  const types = new Set(nums); //이게 nums 배열의 중복을 제거하는 거고
+  let take = nums / 2; // 이게 내가 가져갈 수 있는 것
+
+  return Math.min(types, take); // 둘 중 최소값 비교해서 작은거 리턴
+}
+
 console.log(solution([3, 1, 2, 3]));
 console.log(solution([3, 3, 3, 2, 2, 4]));
 console.log(solution([3, 3, 3, 2, 2, 2]));
+
+// unique한 값을 뱉어내야하는 것이기 때문에 집합 알고리즘

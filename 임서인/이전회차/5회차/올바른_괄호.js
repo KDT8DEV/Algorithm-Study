@@ -37,7 +37,7 @@ s.length가 홀수면 false
     (여는_괄호의 다음에 닫는_괄호가 있으면
      가장 마지막 여는_괄호는 true가 된다
      
-     // 이거는 걍 1번 아이디어
+     //  1번 아이디어
      true가 되면! delete 한쌍
      s.length 가 0이면 true
      s.length 가 0이 아니면 false

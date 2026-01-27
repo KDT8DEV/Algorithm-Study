@@ -23,7 +23,7 @@ function solution1(d, budget, sum = 0, result = 0) {
   return result;
 }
 
-// 문제를 잘 못
+// 문제를 잘 못 이해했다
 
 function solution(d, budget, sum = 0) {
   d.sort((a, b) => a - b); // [1,2,3,4,5]

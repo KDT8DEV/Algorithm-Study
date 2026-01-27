@@ -1,0 +1,198 @@
+컬러 기준 요약 (팔레트 1)
+
+Primary: #FFC34A
+
+Primary Hover: #E6AB2E
+
+Primary Soft: #FFE1A3
+
+Background: #FFF9EE
+
+Card: #FFFFFF
+
+Text Primary: #2E2E2E
+
+Text Secondary: #6B6B6B
+
+Border: #EFE4CC
+
+1. 전체 레이아웃
+Body / App Background
+
+background: #FFF9EE
+
+기본 텍스트: #2E2E2E
+
+의도
+페이지 전환이 잦아도 눈이 편함, 따뜻한 첫 인상
+
+2. 헤더 / 네비게이션
+헤더 배경
+
+background: #FFFFFF
+
+bottom border: #EFE4CC
+
+로고 / 서비스명
+
+color: #2E2E2E
+
+강조 포인트(아이콘 일부): #FFC34A
+
+메뉴 텍스트
+
+기본: #6B6B6B
+
+hover / active: #2E2E2E
+
+3. 버튼 (가장 중요)
+Primary Button (참여하기, 모임 만들기)
+
+background: #FFC34A
+
+hover: #E6AB2E
+
+text: #2E2E2E
+
+disabled background: #FFE1A3
+
+disabled text: #6B6B6B
+
+Secondary Button
+
+background: #FFFFFF
+
+border: #FFC34A
+
+text: #2E2E2E
+
+hover background: #FFF3D6
+
+4. 카드 컴포넌트 (모임 카드)
+카드 컨테이너
+
+background: #FFFFFF
+
+border: #EFE4CC
+
+shadow: 아주 연하게 (opacity 낮게)
+
+카드 제목
+
+color: #2E2E2E
+
+카드 서브 정보 (시간, 위치, 인원)
+
+color: #6B6B6B
+
+상태 뱃지
+
+모집중
+
+background: #FFE1A3
+
+text: #2E2E2E
+
+마감
+
+background: #E5E5E5
+
+text: #6B6B6B
+
+5. 채팅 UI (오래 사용하는 화면)
+채팅 배경
+
+background: #FFFCF4
+
+상대 말풍선
+
+background: #FFFFFF
+
+text: #2E2E2E
+
+내 말풍선
+
+background: #FFE1A3
+
+text: #2E2E2E
+
+타임스탬프 / 시스템 메시지
+
+text: #9A9A9A
+
+입력창
+
+background: #FFFFFF
+
+border: #EFE4CC
+
+placeholder: #9A9A9A
+
+6. 입력 폼 (로그인, 모임 생성)
+Input 기본
+
+background: #FFFFFF
+
+border: #EFE4CC
+
+text: #2E2E2E
+
+Focus 상태
+
+border: #FFC34A
+
+shadow: #FFC34A 아주 연하게
+
+Error 상태
+
+border: #E74C3C
+
+text: #E74C3C
+
+7. 탭 / 필터 / 토글
+비활성 탭
+
+text: #6B6B6B
+
+background: transparent
+
+활성 탭
+
+text: #2E2E2E
+
+underline or background: #FFC34A
+
+8. 텍스트 계층 (폰트 컬러 가이드)
+제목 (H1~H3)
+
+color: #2E2E2E
+
+본문
+
+color: #2E2E2E
+
+설명 / 메타 정보
+
+color: #6B6B6B
+
+비활성 / 힌트
+
+color: #9A9A9A
+
+9. 추천 폰트 적용
+
+(이미 톤이 잘 맞음)
+
+제목: Pretendard SemiBold
+
+본문 / 채팅: Pretendard Regular
+
+숫자 강조(인원, 시간): Pretendard Medium
+
+핵심 요약 (실무 포인트)
+
+#FFC34A는 행동 유도용으로만 사용
+
+정보 전달 영역은 전부 화이트 + 그레이
+
+채팅은 반드시 톤 다운된 배경
