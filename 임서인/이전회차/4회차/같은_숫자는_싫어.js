@@ -1,3 +1,9 @@
+// 첫번째 요소 담고 쭉 비교해서 다를 때 담기
+// 담아진 요소랑 다를 때 담기
+// !== 담는 함수 splice 삽입
+
+// if 같으면 splice
+
 // const solution = (arr)=>
 // {   for(let i=0;i<arr.length;i++){
 //         if(arr[i]==arr[i+1]){
@@ -6,22 +12,16 @@
 //     }
 //  return arr
 // }
-// 첫번째 요소 담고 쭉 비교해서 다를 때 담기
-// 담아진 요소랑 다를 때 담기
-// !== 담는 함수 splice 삽입
 
-// if 같으면 splice
-
-//
 // const solution=(arr,ans="")=>{
 //     ans =arr.reduce((acc,cur,idx)=>{
 //         console.log("acc: "+acc+" cur: "+cur)
 //         if(acc.substr(acc.length-1,1)!==cur){
-//             return acc+=cur
 //             console.log("다름")
+//              return acc+=cur
 //         }else{
+//           console.log("같음")
 //           return acc+=",";
-//             console.log("같음")
 //         }
 //     },"")
 
@@ -42,14 +42,22 @@
 // }
 
 // 성공한 코드
-const solution = (arr, ans = []) => {
-  ans = arr.reduce((acc, cur) => {
-    if (acc[acc.length - 1] != cur) {
-      acc.push(cur);
-      return acc;
-    } else {
-      return acc;
-    }
-  }, []);
-  return ans;
+// const solution = (arr, ans = []) => {
+//   ans = arr.reduce((acc, cur) => {
+//     if (acc[acc.length - 1] != cur) {
+//       acc.push(cur);
+//       return acc;
+//     } else {
+//       return acc;
+//     }
+//   }, []);
+//   return ans;
+// };
+
+// acc의 마지막 문자열과 다르면 cur값을 추가
+const solution = (arr) => {
+  return arr.filter((_, i, a) => a[i] != a[i + 1]);
 };
+
+// + filter는 빈 값("", null, undefined)을 자동으로 제거해준다.
+//https://1two13.tistory.com/entry/JavaScript-filter는-빈-값-null-undefined을-자동으로-제거해준다

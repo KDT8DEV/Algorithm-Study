@@ -53,7 +53,7 @@ function solution(players, m, k) {
 function solution(players, m, k) {
   let totalAdd = 0; // 총 증설 횟수
   let alive = 0; // 현재 살아 있는 증설 서버 수
-  let expire = Array(players.length + k + 1).fill(0); // expire[t] = t시에 만료될 서버 수
+  let expire = Array(players.length + k).fill(0); // expire[t] = t시에 만료될 서버 수
 
   for (let i = 0; i < players.length; i++) {
     // 1) k시간 지난 서버 반납

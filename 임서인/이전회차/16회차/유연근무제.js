@@ -1,7 +1,7 @@
 function solution(schedules, timelogs, startday) {
+  const numberPeople = schedules.length;
   const saturday = (6 - startday + 7) % 7;
   const sunday = (7 - startday + 7) % 7;
-  const numberPeople = schedules.length;
 
   let result = 0;
   for (let person = 0; person < numberPeople; person++) {
@@ -22,6 +22,7 @@ function solution(schedules, timelogs, startday) {
   }
   return result;
 }
+// ( startday + day ) % 7 하면 저렇게 복잡하게 안해도 됨
 
 // 토요일과 일요일을 제외한 평일만 추출해서
 // HHMM 형태로 된 출퇴근 기록과 비교하여 +10된 시간보다 크면 지각으로 간주
