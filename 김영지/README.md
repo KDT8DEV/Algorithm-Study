@@ -200,3 +200,13 @@
 |  260125  |    LV1     |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)    |    77%     |  그리디  |
 |  260125  |    LV3     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)    |    56%     |  해시  |
 |  260125  |    LV2     |        [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)    |    70%     |  슬라이딩 윈도우  |
+
+### 20주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** | **문제유형** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: | :----------: |
+|  260129  |    LV1     |        [(1차)비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)    |    70%     |  비트연산  |
+|  260130  |    LV2     |        [디펜스게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)    |    51%     |  그리디, 우선순위큐   |
+|  260130  |         |        0의개수    |         |   LMS 코딩테스트  |
+|  260130  |         |        아이템합성    |         |  LMS 코딩테스트   |
+|  260131  |    LV3     |        [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)    |    64%     |  DFS/BFS   |
