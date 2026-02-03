@@ -1,22 +1,63 @@
-function solution(k, dungeons) {
-    let maxCount = 0;
-    const visited = Array(dungeons.length).fill(false);
+function solution(n, computers) {
+    const visited = new Array(n).fill(false);
 
-    function dfs(currentFatigue, count) {
-        maxCount = Math.max(maxCount, count);
-
-        for (let i = 0; i < dungeons.length; i++) {
-            const [minReq, cost] = dungeons[i];
-            if (!visited[i] && currentFatigue >= minReq) {
-                visited[i] = true;
-                dfs(currentFatigue - cost, count + 1);
-                visited[i] = false; // 백트래킹
+    function dfs(node) {
+        visited[node] = true;
+        for (let next = 0; next < n; next++) {
+            if (computers[node][next] === 1 && !visited[next]) {
+                dfs(next);
             }
         }
     }
 
-    dfs(k, 0);
-    return maxCount;
+    let count = 0;
+    for (let i = 0; i < n; i++) {
+        if (!visited[i]) {
+            dfs(i);
+            count++;
+        }
+    }
+    return count;
 }
 
-console.log(solution(80,[[80,20],[50,40],[30,10]]));
+// 실행 예시
+console.log(solution(3, [
+    [1,1,0],
+    [1,1,0],
+    [0,0,1]
+])); // 출력: 2
+
+// function solution(n, computers) {
+//     const visited = new Array(n).fill(false);
+
+//     function bfs(start) {
+//         const queue = [start];
+//         visited[start] = true;
+
+//         while (queue.length > 0) {
+//             const node = queue.shift();
+//             for (let next = 0; next < n; next++) {
+//                 if (computers[node][next] === 1 && !visited[next]) {
+//                     visited[next] = true;
+//                     queue.push(next);
+//                 }
+//             }
+//         }
+//     }
+
+//     let count = 0;
+//     for (let i = 0; i < n; i++) {
+//         if (!visited[i]) {
+//             bfs(i);
+//             count++;
+//         }
+//     }
+//     return count;
+// }
+
+// // 실행 예시
+// console.log(solution(3, [
+//     [1, 1, 0],
+//     [1, 1, 0],
+//     [0, 0, 1]
+// ])); // 출력: 2
