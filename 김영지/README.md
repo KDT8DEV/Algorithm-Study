@@ -210,3 +210,14 @@
 |  260130  |         |        0의개수    |         |   LMS 코딩테스트  |
 |  260130  |         |        아이템합성    |         |  LMS 코딩테스트   |
 |  260131  |    LV3     |        [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)    |    64%     |  DFS/BFS   |
+
+
+### 21주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** | **문제유형** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: | :----------: |
+|  260206  |    브론즈2     |        [블랙잭](https://www.acmicpc.net/problem/2798)    |    50%     |  브루트포스  |
+|  260206  |    실버3     |        [N과M(1)](https://www.acmicpc.net/problem/15649)    |    64%     |  백트래킹  |
+|  260208  |    난이도2     |        [카드모으기](https://level.goorm.io/exam/175909/%EC%B9%B4%EB%93%9C-%EB%AA%A8%EC%9C%BC%EA%B8%B0/quiz/1)    |    89%     |  해시  |
+|  260208  |    난이도3     |        [학생정보관리 어플리케이션](https://level.goorm.io/exam/351306/%ED%95%99%EC%83%9D-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0/quiz/1)    |    95%     |  해시  |
+|  260208  |    LV3     |        [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)    |    62%     |  bfs  |
