@@ -5,20 +5,30 @@
 // 컴퓨터의 개수 n, 연결에 대한 정보가 담긴 2차원 배열 computers가 매개변수로 주어질 때, 네트워크의 개수를 return 하도록 solution 함수를 작성하시오.
 
 function solution(n, computers) {
-    function dfs(currentFatigue, count) {
-        maxCount = Math.max(maxCount, count);
+    const visited = Array(n).fill(false);
+    let count = 0;
 
-        for (let i = 0; i < dungeons.length; i++) {
-            const [minReq, cost] = dungeons[i];
-            if (!visited[i] && currentFatigue >= minReq) {
-                visited[i] = true;
-                dfs(currentFatigue - cost, count + 1);
-                visited[i] = false; // 백트래킹
+    //n번째 컴퓨터랑 연결된 컴퓨터 찾아가기
+    function dfs(node) {
+        visited[node] = true;
+        for (let i = 0; i < n; i++) {
+            if (computers[node][i] === 1 && !visited[i]) {
+                dfs(i);
             }
         }
     }
 
-    dfs(k, 0);
+    //n번쨰 컴퓨터랑 어떤 컴퓨터가 연결되었는지 도는 반복문
+    for (let i = 0; i < n; i++) {
+        if (!visited[i]) {
+            dfs(i);
+            count++;
+        }
+    }
+    //0이랑 연결된 컴퓨터는 모두 visited에 기록됨
+    //때문에 다음 컴퓨터가 visited에 연결됐다면? 
+    // 0컴이랑 연결된 것. => 증가안함
+    return count;
 }
 
 console.log(solution(3, [
