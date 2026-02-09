@@ -202,8 +202,22 @@
 |  260131  |    LV0     |          [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)           |    77%     |              |
 |  260131  |    LV3     |      [(공통문제) 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)      |    64%     | DFS/BFS      |
 
+### 21주차
+
+| **날짜** | **난이도** |                                          **문제 이름**                                          | **정답률** | **알고리즘** |
+| :------: | :--------: | :---------------------------------------------------------------------------------------------: | :--------: | ------------ |
+|  260209  |    LV0     |         [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)         |    90%     |              |
+|  260209  |    LV1     | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) |    84%     |              |
+|  260209  |    LV2     |      [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |    78%     |              |
+|  260209  |    LV2     |          [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)           |    71%     |              |
+|  260209  |    LV3     |     [(공통문제) 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)     |    62%     | DFS/BFS      |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** |
 | :------: | :--------: | :-----------: | :--------: |
+|          |     LV     |     []()      |     %      |
+|          |     LV     |     []()      |     %      |
+|          |     LV     |     []()      |     %      |
+|          |     LV     |     []()      |     %      |
 |          |     LV     |     []()      |     %      |
