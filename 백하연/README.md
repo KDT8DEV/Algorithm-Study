@@ -212,12 +212,22 @@
 |  260209  |    LV2     |          [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)           |    71%     |              |
 |  260209  |    LV3     |     [(공통문제) 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)     |    62%     | DFS/BFS      |
 
+### 22주차
+
+| **날짜** | **난이도** |                                    **문제 이름**                                    | **정답률** | **알고리즘** |
+| :------: | :--------: | :---------------------------------------------------------------------------------: | :--------: | :----------: |
+|  260308  |    LV0     | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) |    90%     |              |
+|  260309  |    LV0     |  [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)  |    90%     |              |
+|  260309  |    LV0     | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)  |    89%     |              |
+|  260309  |    LV0     | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) |    88%     |              |
+|  260309  |    LV1     | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) |    87%     |              |
+
 ### N주차
 
-| **날짜** | **난이도** | **문제 이름** | **정답률** |
-| :------: | :--------: | :-----------: | :--------: |
-|          |     LV     |     []()      |     %      |
-|          |     LV     |     []()      |     %      |
-|          |     LV     |     []()      |     %      |
-|          |     LV     |     []()      |     %      |
-|          |     LV     |     []()      |     %      |
+| **날짜** | **난이도** | **문제 이름** | **정답률** | **알고리즘** |
+| :------: | :--------: | :-----------: | :--------: | :----------: |
+|          |     LV     |     []()      |     %      |              |
+|          |     LV     |     []()      |     %      |              |
+|          |     LV     |     []()      |     %      |              |
+|          |     LV     |     []()      |     %      |              |
+|          |     LV     |     []()      |     %      |              |
