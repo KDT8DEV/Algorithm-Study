@@ -21,7 +21,6 @@ function solution(begin, target, words) {
       }
     }
   }
-
   return 0;
 }
 
@@ -69,6 +68,7 @@ function canChange(a, b) {
 //   return /* diff 조건 */;
 // }
 
+//////////////////////////
 // function solution(begin, target, words) {
 //     let word = begin;
 //     let count = 0;
