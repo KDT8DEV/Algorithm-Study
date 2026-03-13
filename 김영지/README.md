@@ -221,3 +221,13 @@
 |  260307  |    LV1     |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    |    79%     | 유클리드호제법 |
 |  260307  |    LV1     |           [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)            |    73%     |      정렬      |
 |  260307  |    LV2     |           [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            |    68%     |      정렬      |
+
+### 23주차
+
+| **날짜** | **난이도** |                                   **문제 이름**                                    | **정답률** | **문제유형**          |
+| :------: | :--------: | :--------------------------------------------------------------------------------: | :--------: | :-------------------- |
+|  260312  |    LV1     |     [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)     |    78%     | 브루트포스 (완전탐색) |
+|  260312  |    LV1     |  [삼진법뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)   |    77%     | 진법변환              |
+|  260312  |    LV1     |    [콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)    |    73%     | 시뮬레이션, 그리디    |
+|  260313  |    LV2     | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |    69%     | 좌표변환              |
+|  260313  |    LV2     |      [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)       |    68%     | 해시                  |
