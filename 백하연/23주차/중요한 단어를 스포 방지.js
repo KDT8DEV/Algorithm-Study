@@ -19,8 +19,8 @@
  *
  *
  */
+// 문제 요약 : 스포 방지 단어 중에서 비스포 구간에 등장한 적 없고, 이전에 공개된 적도 없는 단어가 중요한 단어
 function solution(message, spoiler_ranges) {
-  // 1. 어떤 단어가 스포 방지 단어인지?
   const isSpoiler = Array.from({ length: message.length }, () => false);
 
   for (const [start, end] of spoiler_ranges) {
