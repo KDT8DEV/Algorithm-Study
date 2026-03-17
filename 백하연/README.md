@@ -222,6 +222,16 @@
 |  260309  |    LV0     | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) |    88%     |              |
 |  260309  |    LV1     | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) |    87%     |              |
 
+### 23주차
+
+| **날짜** | **난이도** |                                        **문제 이름**                                         | **정답률** |         **알고리즘**          |
+| :------: | :--------: | :------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
+|  260315  |    LV1     |       [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)        |    61%     |    구현 (문자열 처리 기초)    |
+|  260316  |    LV1     |        [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)         |    72%     | 구현 → 그리디(Greedy, 탐욕법) |
+|  260316  |    LV1     |      [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)       |    58%     |             스택              |
+|  260316  |    LV1     | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)  |    25%     |                               |
+|  260316  |    LV1     | [(공통문제) 노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371) |    30%     |                               |
+
 ### N주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** | **알고리즘** |
