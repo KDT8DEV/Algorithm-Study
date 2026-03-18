@@ -231,3 +231,9 @@
 |  260312  |    LV1     |    [콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)    |    73%     | 시뮬레이션, 그리디    |
 |  260313  |    LV2     | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |    69%     | 좌표변환              |
 |  260313  |    LV2     |      [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)       |    68%     | 해시                  |
+
+### 24주차
+
+| **날짜** | **난이도** |                                 **문제 이름**                                  | **정답률** | **문제유형** |
+| :------: | :--------: | :----------------------------------------------------------------------------: | :--------: | :----------- |
+|  260319  |    LV1     | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) |    81%     |              |
