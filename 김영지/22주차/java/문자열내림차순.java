@@ -1,4 +1,3 @@
-package java;
 import java.util.Arrays;
 import java.util.Collections;
 /**문제 설명
