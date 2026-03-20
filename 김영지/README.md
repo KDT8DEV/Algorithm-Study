@@ -234,8 +234,10 @@
 
 ### 24주차
 
-| **날짜** | **난이도** |                                   **문제 이름**                                   | **정답률** | **문제유형**          |
-| :------: | :--------: | :-------------------------------------------------------------------------------: | :--------: | :-------------------- |
-|  260319  |    LV1     |  [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)   |    81%     |                       |
-|  260319  |    LV1     |    [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)    |    67%     | 브루트포스 (완전탐색) |
-|  260319  |    LV1     | [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) |    73%     | 배열+정렬             |
+| **날짜** | **난이도** |                                        **문제 이름**                                        | **정답률** | **문제유형**          |
+| :------: | :--------: | :-----------------------------------------------------------------------------------------: | :--------: | :-------------------- |
+|  260319  |    LV1     |       [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)        |    81%     |                       |
+|  260319  |    LV1     |         [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)         |    67%     | 브루트포스 (완전탐색) |
+|  260319  |    LV1     |      [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)      |    73%     | 배열+정렬             |
+|  260320  |    LV1     | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) |    25%     | 문자열+구간처리       |
+|  260320  |    LV2     |       [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        |    67%     | 행렬연산, 완전탐색    |
