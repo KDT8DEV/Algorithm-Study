@@ -18,7 +18,7 @@ function solution(signals) {
 
         for (let i = 0; i < n; i++) {
             const [g, y, r] = signals[i];
-            const cycle = cycles[i];
+            const cycle = cycles[i];//현재 신호등 주기 길이
             const pos = (t - 1) % cycle; // 현재 신호등의 위치
 
             if (pos < g) { // 초록불
