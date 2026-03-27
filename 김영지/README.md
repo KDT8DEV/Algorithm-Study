@@ -241,3 +241,13 @@
 |  260319  |    LV1     |      [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)      |    73%     | 배열+정렬             |
 |  260320  |    LV1     | [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) |    25%     | 문자열+구간처리       |
 |  260320  |    LV2     |       [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        |    67%     | 행렬연산, 완전탐색    |
+
+### 25주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** | **문제유형**                     |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: | :------------------------------- |
+|  260327  |    LV1     |       [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)        |    64%     | 에라토스테네스의 체, Math.sqrt() |
+|  260327  |    LV2     |       [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)        |    57%     | dfs, 백트래킹, Math.sqrt()       |
+|  260327  |    LV2     |        [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)        |    67%     | 스택/큐                          |
+|  260327  |    LV1     | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) |    75%     | 해시                             |
+|  260327  |    LV1     |    [푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     |    74%     | 그리디, 문자열                   |
