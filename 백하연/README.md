@@ -244,13 +244,13 @@
 
 ### 25주차
 
-| **날짜** | **난이도** |                                      **문제 이름**                                      | **정답률** | **문제 유형** |
-| :------: | :--------: | :-------------------------------------------------------------------------------------: | :--------: | :-----------: |
-|  260329  |    LV1     | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) |    73%     |  문자열 처리  |
-|  260329  |    LV1     |       [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)        |    73%     |     정렬      |
-|  260330  |    LV1     |     [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)      |    62%     | 완전탐색/수학 |
-|  260330  |    LV2     |     [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)      |    60%     |    DP/수학    |
-|  260330  |    LV2     |     [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)      |    50%     | 완전탐색(순열) |
+| **날짜** | **난이도** |                                      **문제 이름**                                      | **정답률** | **문제 유형**  |
+| :------: | :--------: | :-------------------------------------------------------------------------------------: | :--------: | :------------: |
+|  260329  |    LV1     | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) |    73%     |  문자열 처리   |
+|  260329  |    LV1     |       [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)        |    73%     |      정렬      |
+|  260330  |    LV1     |     [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)      |    62%     | 완전탐색/수학  |
+|  260330  |    LV2     |     [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)      |    60%     |    DP/수학     |
+|  260330  |    LV2     |      [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)       |    50%     | 완전탐색(순열) |
 
 ### N주차
 
