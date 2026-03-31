@@ -45,3 +45,15 @@ function solution(message, spoiler_ranges) {
 
     return count;
 }
+
+console.log(solution("here is muzi here is a secret message", [[0, 3], [23, 28]]));
+// 예상 결과: 1 (스포일러 구간에만 등장하는 "볼드모트")
+
+console.log(solution("아이언맨은 천재다. 아이언맨이 타노스를 물리친다.", [[15, 40]]));
+// 예상 결과: 1 (스포일러 구간에만 등장하는 "타노스")
+
+console.log(solution("토르와 로키는 형제다. 로키가 배신한다.", [[20, 35]]));
+// 예상 결과: 0 (로키는 스포일러 밖에도 등장했으므로 카운트하지 않음)
+
+console.log(solution("반지의 제왕에서 프로도는 반지를 파괴한다.", [[10, 30]]));
+// 예상 결과: 1 (스포일러 구간에만 등장하는 "프로도")
