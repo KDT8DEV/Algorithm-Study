@@ -251,3 +251,13 @@
 |  260327  |    LV2     |        [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)        |    67%     | 스택/큐                          |
 |  260327  |    LV1     | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) |    75%     | 해시                             |
 |  260327  |    LV1     |    [푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     |    74%     | 그리디, 문자열                   |
+
+### 26주차
+
+| **날짜** | **난이도** |                                       **문제 이름**                                       | **정답률** | **문제유형**                        |
+| :------: | :--------: | :---------------------------------------------------------------------------------------: | :--------: | :---------------------------------- |
+|  260401  |    LV2     |    [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    |    66%     | 투포인터, 해시                      |
+|  260401  |    LV2     | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |    56%     | 슬라이딩 윈도우                     |
+|  260402  |   골드3    |                   [소수의 연속합](https://www.acmicpc.net/problem/1644)                   |    42%     | 소수찾기, 투포인터, 슬라이딩 윈도우 |
+|  260402  |    LV3     |        [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)        |    50%     | 사전순 정렬, DFS(백트래킹)          |
+|  260403  |    LV3     |    [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)    |    18%     | 이분탐색                            |
