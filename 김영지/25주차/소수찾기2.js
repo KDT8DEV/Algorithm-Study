@@ -8,6 +8,7 @@
 // 하나씩 붙여서 모든 경우 만들어야 한다 => DFS
 // 소수 구할 땐 Math.sqrt()로 제곱근까지만 for문
 function solution(numbers) {
+  // let numbers = "17"; // 3
   // 중복 제거를 위한 Set (같은 숫자가 여러 번 만들어질 수 있음)
   let set = new Set();
 
@@ -30,7 +31,7 @@ function solution(numbers) {
       // 현재 숫자를 사용했다고 표시
       visited[i] = true;
 
-      // 현재 숫자를 이어 붙여 다음 단계로 DFS 진행
+      // 현재 숫자를 이어 붙여 다음 단계로 DFS 진행 cur "" / numbers[i] = 7
       dfs(cur + numbers[i]);
 
       // 탐색이 끝났으면 다시 사용하지 않은 상태로 되돌림 (백트래킹 핵심)
@@ -44,7 +45,7 @@ function solution(numbers) {
   // 소수 개수를 셀 변수
   let cnt = 0;
 
-  // Set에 있는 모든 숫자 순회
+  // Set에 있는 모든 숫자 순회 (1, 7, 17, 71)
   for (let num of set) {
     // 소수라면 개수 증가
     if (isPrime(num)) cnt++;
