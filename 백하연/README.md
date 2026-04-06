@@ -250,7 +250,17 @@
 |  260329  |    LV1     |       [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)        |    73%     |      정렬      |
 |  260330  |    LV1     |     [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)      |    62%     | 완전탐색/수학  |
 |  260330  |    LV2     |     [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)      |    60%     |    DP/수학     |
-|  260330  |    LV2     |      [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)       |    50%     | 완전탐색(순열) |
+|  260330  |    LV2     | [(공통문제) 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |    50%     | 완전탐색(순열) |
+
+### 26주차
+
+| **날짜** | **난이도** |                                         **문제 이름**                                          | **정답률** | **문제 유형** |
+| :------: | :--------: | :--------------------------------------------------------------------------------------------: | :--------: | :-----------: |
+|  260406  |    LV1     | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) |    88%     |  문자열 처리  |
+|  260406  |    LV0     |     [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)     |    90%     |  문자열 처리  |
+|  260406  |    LV0     |     [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)      |    90%     |   배열 순회   |
+|  260406  |    LV1     |      [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)      |    76%     |  문자열 처리  |
+|  260406  |    LV3     | (공통문제) [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |    18%     |   이분 탐색   |
 
 ### N주차
 
