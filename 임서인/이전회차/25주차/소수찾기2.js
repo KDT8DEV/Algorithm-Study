@@ -24,7 +24,7 @@ function solution(numbers) {
   function isPrime(num) {
     if (num < 2) return false;
 
-    let prime = [];
+    let prime = [];  
 
     for (let i = 2; i <= num; i++) {
       if (prime.length === 0) {
@@ -33,7 +33,7 @@ function solution(numbers) {
       }
 
       let isPrime = true;
-
+3
       for (let j = 0; j < prime.length; j++) {
         if (prime[j] > Math.sqrt(i)) break;
 
@@ -50,16 +50,19 @@ function solution(numbers) {
   }
 
   makeNumber('', Array(arr.length).fill(false));
-  //used = [false, false, false]
-  //used = [true, false, false]
-  //current = '0'
-  //used = [true, true, false]
-  //current = '01'
-  //used = [true, true, true]
-  //current = '011'
 
   return set.size;
 }
+
+// arr = ['0', '1', '1']
+// used = [false, false, false]
+// current = ''
+// used = [true, false, false]
+// current = '0'
+// used = [true, true, false]
+// current = '01'
+// used = [true, true, true]
+// current = '011'
 
 // split()으로 문자열을 숫자 배열로 분리
 // 재귀(makeNumber)로 숫자를 하나씩 이어붙임

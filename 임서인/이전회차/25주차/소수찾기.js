@@ -33,7 +33,7 @@ function solution(n) {
     }
     let isPrime = true;
     for (let j = 0; j < prime.length; j++) {
-      if (prime[j] > Math.sqrt(i)) break;
+      if (prime[j] > Math.sqrt(i)) break; // 
       if (i % prime[j] == 0) {
         isPrime = false;
         break;
