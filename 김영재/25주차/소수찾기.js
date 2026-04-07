@@ -8,13 +8,26 @@ function isPrime(num) {
 }
 
 //순열 생성 함수
+// 1, 2, 0
+
+// 1, 2,
+// 1, 2, 0
+
+//1, 0,
+//1, 0, 2
+
+
+//1, 0, 2
+//2, 0
 function getPermutations(arr) {
   if (arr.length === 0) return [[]];
   const result = [];
-  arr.forEach((num, i) => {
+  arr.forEach((num, i) => {//1, 2, 0
     const rest = arr.slice(0, i).concat(arr.slice(i + 1));
     const perms = getPermutations(rest);
     perms.forEach(p => result.push([num, ...p]));
+    console.log(perms);
+
   });
   return result;
 }
@@ -25,8 +38,14 @@ function solution(numbers) {
 
   for (let len = 1; len <= digits.length; len++) {
     const perms = getPermutations(digits).map(p => p.slice(0, len).join(''));
+    //1,2,0 12
+    //1,0,2 10 
+    //2,0,1 20
+    //2,1,0 21
+
+    //= 1
     console.log(perms);
-    
+
     perms.forEach(str => {
       const num = Number(str);
       candidates.add(num);
