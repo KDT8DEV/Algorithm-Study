@@ -27,7 +27,7 @@ function getPermutations(arr, current, set) {
 
       if (selected.length > 0) set.add(Number(selected)); // 만들어진 숫자를 숫자로 바꿔서 Set에 넣기(중복 제거)
 
-      getPermutations(rest, selected, set); // 재귀 호출 : 남은 숫자들(newArr)과 새로 만든 문자열(newFixed)을 넘겨줌
+      getPermutations(rest, selected, set); // 재귀 호출 : 남은 숫자들(rest)과 새로 만든 문자열(selected)을 넘겨줌
     }
   }
 }
