@@ -260,14 +260,20 @@
 |  260406  |    LV0     |     [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)     |    90%     |  문자열 처리  |
 |  260406  |    LV0     |     [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)      |    90%     |   배열 순회   |
 |  260406  |    LV1     |      [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)      |    76%     |  문자열 처리  |
-|  260406  |    LV3     | (공통문제) [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |    18%     |   이분 탐색   |
+|  260406  |    LV3     | [(공통문제) 금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |    18%     |   이분 탐색   |
 
-### N주차
+### 27주차
+
+| **날짜** | **난이도** |                                         **문제 이름**                                         | **정답률** | **문제 유형** |
+| :------: | :--------: | :-------------------------------------------------------------------------------------------: | :--------: | :-----------: |
+|  260412  |    LV0     |           [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)            |    90%     |  문자열 처리  |
+|  260412  |    LV0     |      [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)      |    90%     |  문자열 처리  |
+|  260412  |    LV1     | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) |    71%     |     정렬      |
+|  260412  |    LV1     |   [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)   |    75%     | 해시(Map/Set) |
+|  260413  |    LV3     |    [(공통문제) 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)     |    48%     |   이분 탐색   |
+
+### 28주차
 
 | **날짜** | **난이도** | **문제 이름** | **정답률** | **문제 유형** |
 | :------: | :--------: | :-----------: | :--------: | :-----------: |
-|          |     LV     |     []()      |     %      |               |
-|          |     LV     |     []()      |     %      |               |
-|          |     LV     |     []()      |     %      |               |
-|          |     LV     |     []()      |     %      |               |
 |          |     LV     |     []()      |     %      |               |

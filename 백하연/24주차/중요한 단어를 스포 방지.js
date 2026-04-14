@@ -20,7 +20,12 @@
  *
  *
  */
+
 // 문제 요약 : 스포방지구간에 등장한 적 없고 중복되지 않은 스포 방지 단어 중 중요한 단어의 수를 찾는 문제
+// 핵심 패턴 : 구간 겹침 체크
+// 1. 단어의 위치(인덱스)를 뽑아서 구간과 겹치는지 여부 체크
+// 2. Set으로 이미 공개된 단어 중복 추적
+// 안 겹치는 두 경우의 부정 으로 겹침을 판단하는 방식. 구간/범위 관련 문제에서 자주 쓰이는 패턴
 function solution(message, spoiler_ranges) {
   let important = 0;
 
@@ -42,7 +47,7 @@ function solution(message, spoiler_ranges) {
     spoiler_ranges.every(([start, end]) => word.start > end || word.end < start),
   );
 
-  // 스포 방지 단어 중 3번 목록에 없고 이전에 공개된 적 없으면 중요한 단어 카운트 + 1
+  // 스포 방지 단어 중 목록에 없고 이전에 공개된 적 없으면 중요한 단어 카운트 + 1
   const seen = new Set();
 
   for (const [start, end] of spoiler_ranges) {

@@ -9,6 +9,7 @@
 /**
  * 금과 은 운반하기
  * 주어진 시간 내에 필요한 금과 은을 모두 운반할 수 있는 최소 시간을 반환
+ * 이분 탐색 → 매개 변수 탐색(특정 조건을 만족하는 최솟값 구하기)
  *
  * @param {*} a 금
  * @param {*} b 은
@@ -30,9 +31,10 @@ function solution(a, b, g, s, w, t) {
     let totalSilver = 0;
     let totalMix = 0;
 
+    // 시간(mid) 내에 최대 운반량 계산
     for (let i = 0; i < g.length; i++) {
       let count = Math.floor((mid + t[i]) / (t[i] * 2));
-      let maxWeight = count * w[i];
+      let maxWeight = count * w[i]; // 트럭이 옮길 수 있는 한계치
 
       totalGold += Math.min(g[i], maxWeight);
       totalSilver += Math.min(s[i], maxWeight);
