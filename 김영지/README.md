@@ -261,3 +261,13 @@
 |  260402  |   골드3    |                   [소수의 연속합](https://www.acmicpc.net/problem/1644)                   |    42%     | 소수찾기, 투포인터, 슬라이딩 윈도우 |
 |  260402  |    LV3     |        [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)        |    50%     | 사전순 정렬, DFS(백트래킹)          |
 |  260403  |    LV3     |    [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)    |    18%     | 이분탐색                            |
+
+### 27주차
+
+| **날짜** | **난이도** |                                        **문제 이름**                                        | **정답률** | **문제유형**        |
+| :------: | :--------: | :-----------------------------------------------------------------------------------------: | :--------: | :------------------ |
+|  260409  |    LV1     | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |    79%     | slice, filter       |
+|  260409  |    LV1     |          [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)          |    66%     |                     |
+|  260410  |    LV2     |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)          |    68%     | 완전탐색, dfs, 순열 |
+|  260410  |    LV3     |         [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)         |    49%     | 이분탐색            |
+|  260410  |    LV3     |         [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)         |    62%     | 우선순위큐(힙)      |
