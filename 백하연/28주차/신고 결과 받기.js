@@ -8,14 +8,6 @@ function solution(id_list, report, k) {
   // 그다음 그 정보를 바탕으로 피신고자별 신고 횟수 계산
   // 정지된 사람만 골라서 메일 수 계산
 
-  /**
-   *
-  report를 돌면서 신고자 -> Set(피신고자) 형태로 저장
-그 저장된 값을 순회하면서 피신고자 -> 신고당한 횟수를 카운트
-신고당한 횟수가 k 이상인 사람만 정지
-다시 신고자 -> Set(피신고자)를 보면서, 그 안에 정지된 사람이 몇 명 있는지 세기
-그 개수를 id_list 순서대로 배열에 담기
-   */
   const reportMap = new Map();
   report.forEach((r) => {
     const [reporter, reported] = r.split(' ');
@@ -37,7 +29,6 @@ function solution(id_list, report, k) {
 
   for (const [user, count] of countMap) {
     if (count >= k) {
-      // 정지된 유저
       suspendedUsers.push(user);
     }
   }
@@ -81,3 +72,5 @@ console.log(
   ),
 ); // [2, 1, 1, 0]
 console.log(solution(['con', 'ryan'], ['ryan con', 'ryan con', 'ryan con', 'ryan con'], 3)); // [0, 0]
+
+// 핵심 패턴 : 중복을 제거한 뒤, 관계 데이터를 Map이나 Set으로 저장하고, 카운팅해서 조건에 맞는 결과를 구하는 문제
