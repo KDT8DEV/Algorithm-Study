@@ -1,6 +1,7 @@
 function solution(n, times) {
     let left = 1;
     let right = Math.max(...times) * n;
+    //최대시간
     let answer = right;
 
     while (left <= right) {
@@ -9,7 +10,7 @@ function solution(n, times) {
 
         for (let time of times) {
             count += Math.floor(mid / time);
-        }
+        } //총 시간 / 심사관 별 소요 시간
 
         if (count >= n) {
             answer = mid;
