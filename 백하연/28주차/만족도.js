@@ -74,7 +74,6 @@ function solution3(n, friends) {
     graph[a].set(b, c);
     graph[b].set(a, c);
   }
-  console.log(graph);
 
   const answer = [];
 
