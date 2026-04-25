@@ -20,7 +20,34 @@
  * 출력: 16
  */
 
+// "상하좌우로 연결"된 석유는 "하나의 덩어리" = 그래프 행렬 탐색 (BFS/DFS)
 function solution(land) {
+  const row = land.length; // 가로, 5행
+  const column = land[0].length; // 세로, 8열
+
+  const visited = Array.from({ length: row }, () => Array(column).fill(false));
+
+  for (let i = 0; i < row; i++) {
+    for (let j = 0; j < column; j++) {
+      if (land[i][j] === 1 && !visited[i][j]) {
+        let queue = [[i, j]]; //
+        let columns = new Set();
+
+        visited[i][j] = true; // 방문함
+
+        while (queue.length > 0) {
+          const [x, y] = queue.shift();
+          columns.add(y);
+
+          // 상, 하, 좌, 우 탐색
+          for (let k = 0; k < 4; k++) {}
+        }
+
+        console.log(columns);
+      }
+    }
+  }
+
   return null;
 }
 
@@ -33,14 +60,14 @@ console.log(
     [1, 1, 1, 0, 0, 0, 1, 1],
   ]),
 ); // 9
-console.log(
-  solution([
-    [1, 0, 1, 0, 1, 1],
-    [1, 0, 1, 0, 0, 0],
-    [1, 0, 1, 0, 0, 1],
-    [1, 0, 0, 1, 0, 0],
-    [1, 0, 0, 1, 0, 1],
-    [1, 0, 0, 0, 0, 0],
-    [1, 1, 1, 1, 1, 1],
-  ]),
-); // 16
+// console.log(
+//   solution([
+//     [1, 0, 1, 0, 1, 1],
+//     [1, 0, 1, 0, 0, 0],
+//     [1, 0, 1, 0, 0, 1],
+//     [1, 0, 0, 1, 0, 0],
+//     [1, 0, 0, 1, 0, 1],
+//     [1, 0, 0, 0, 0, 0],
+//     [1, 1, 1, 1, 1, 1],
+//   ]),
+// ); // 16
