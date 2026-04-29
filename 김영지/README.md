@@ -281,3 +281,9 @@
 |  260416  |    LV3     |   [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)   |    62%     | 동적계획법                |
 |  260417  |    LV2     | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |    55%     | bfs                       |
 |  260418  |    LV3     | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |    53%     | 투포인터, 슬라이딩 윈도우 |
+
+### 29주차
+
+| **날짜** | **난이도** |                                **문제 이름**                                 | **정답률** | **문제유형** |
+| :------: | :--------: | :--------------------------------------------------------------------------: | :--------: | :----------- |
+|  260424  |    LV2     | [석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |    43%     | bfs          |
